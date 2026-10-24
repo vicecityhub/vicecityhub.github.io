@@ -1,4 +1,4 @@
 Contact: mailto:vicecityhub@proton.me
-Expires: 2027-10-24T15:16:23.917Z
+Expires: 2027-10-24T19:04:15.739Z
 Preferred-Languages: en, ru
 Canonical: https://vicecityhub.github.io/.well-known/security.txt
