@@ -10,7 +10,7 @@ Important for agents: prefer the Agent API or static JSON feeds below over scrap
 
 - [Agent API index](https://lpglkglhjdqnktybksth.supabase.co/functions/v1/agent-api/v1): JSON map of every endpoint, auth rules, payment rails and safety rules
 - [OpenAPI 3.1 spec](https://lpglkglhjdqnktybksth.supabase.co/functions/v1/agent-api/v1/openapi.json): machine-readable REST contract (mirror: https://vicecityhub.github.io/vicecityhub/openapi.json)
-- [MCP server](https://lpglkglhjdqnktybksth.supabase.co/functions/v1/agent-api/mcp): stateless streamable-HTTP, 19 tools (search_catalog, list_news, create_quote, create_order …); card at https://vicecityhub.github.io/vicecityhub/.well-known/mcp.json
+- [MCP server](https://lpglkglhjdqnktybksth.supabase.co/functions/v1/agent-api/mcp): stateless streamable-HTTP, 25 tools (search_catalog, list_news, create_quote, create_order …); card at https://vicecityhub.github.io/vicecityhub/.well-known/mcp.json
 - [Full guide for LLMs](https://vicecityhub.github.io/vicecityhub/llms-full.txt): everything below plus live catalog, news bodies and the purchase protocol
 - [Agent console for humans](https://vicecityhub.github.io/vicecityhub/agents.html): mint spend-limited API keys, read docs
 
