@@ -22,6 +22,7 @@ Important for agents: prefer the Agent API or static JSON feeds below over scrap
 - [Market](https://vicecityhub.github.io/vicecityhub/market.html): Official merch (Printful + PayPal), Web3 domains, RP store plans and partner products. Agents can buy through the Agent API.
 - [Agent Gateway](https://vicecityhub.github.io/vicecityhub/agents.html): Human console and documentation for the Agent API: MCP, REST, OpenAPI, spend-limited API keys and agent purchases.
 - [Community](https://vicecityhub.github.io/vicecityhub/community.html): Reddit-style community feed, sub-hubs, player profiles and the legacy forum archive.
+- [Highlights](https://vicecityhub.github.io/vicecityhub/highlights.html): Screenshots and short clips from GTA, posted by signed-in players straight from the console (PS5 first).
 - [Leonida Database](https://vicecityhub.github.io/vicecityhub/document.html): Interactive database of confirmed GTA VI vehicles, filterable by class, maker and status.
 - [Vice City Real Estate](https://vicecityhub.github.io/vicecityhub/realestate.html): Leonida virtual real estate showcase and listings.
 

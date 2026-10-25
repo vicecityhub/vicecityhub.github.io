@@ -1,6 +1,6 @@
 # Vice City Hub — full guide for AI agents (v12.0.0)
 
-Generated 2026-10-25T15:26:17.179Z. Live data beats this snapshot: call the API for anything time-sensitive.
+Generated 2026-10-25T19:41:50.117Z. Live data beats this snapshot: call the API for anything time-sensitive.
 
 ## What this site is
 
@@ -12,6 +12,7 @@ The GTA VI fan hub: live news, Leonida intel, GTA RP servers, Web3 domains and m
 - Market — https://vicecityhub.github.io/vicecityhub/market.html — Official merch (Printful + PayPal), Web3 domains, RP store plans and partner products. Agents can buy through the Agent API.
 - Agent Gateway — https://vicecityhub.github.io/vicecityhub/agents.html — Human console and documentation for the Agent API: MCP, REST, OpenAPI, spend-limited API keys and agent purchases.
 - Community — https://vicecityhub.github.io/vicecityhub/community.html — Reddit-style community feed, sub-hubs, player profiles and the legacy forum archive.
+- Highlights — https://vicecityhub.github.io/vicecityhub/highlights.html — Screenshots and short clips from GTA, posted by signed-in players straight from the console (PS5 first).
 - Leonida Database — https://vicecityhub.github.io/vicecityhub/document.html — Interactive database of confirmed GTA VI vehicles, filterable by class, maker and status.
 - Vice City Real Estate — https://vicecityhub.github.io/vicecityhub/realestate.html — Leonida virtual real estate showcase and listings.
 
