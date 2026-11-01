@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-01T18:51:50.406Z",
+  "generated_at": "2026-11-01T21:36:52.678Z",
   "source": "https://lpglkglhjdqnktybksth.supabase.co/functions/v1/agent-api/v1/rp/servers",
-  "count": 6,
+  "count": 100,
   "items": [
     {
       "id": "e12404b0-56f6-4fef-8fd3-65c30ceb2ea2",
@@ -110,6 +110,1808 @@
       "description": "Serious US-style RP. WL server. Custom businesses, exclusive features, reactive staff. Legal and illegal recruitment open. 30–40 active players nightly. Beginners welcome.",
       "connect_url": null,
       "discord_url": "https://discord.gg/fsFdNeunTp",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "125e6399-e5e1-429d-beaa-36d86d93b3fc",
+      "name": "LUV TOWN OFFICIAL",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 1700,
+      "tags": [
+        "Public",
+        "In-Game Voice"
+      ],
+      "description": "General public FiveM roleplay server (Thai). Features: police, EMS, gangs, drugs, heists, in-game voice.",
+      "connect_url": "https://cfx.re/join/qda4v6",
+      "discord_url": "https://discord.gg/luvtown",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "924774ea-e22a-4db2-afdb-e38672f3d9fe",
+      "name": "Fam 2.0 @REBIRTHZVPS",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 2048,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "thailand"
+      ],
+      "description": "General public FiveM roleplay server (Thai). Built on ESX. Features: police, economy, drugs, racing, in-game voice.",
+      "connect_url": "https://cfx.re/join/3o65ob",
+      "discord_url": "https://discord.gg/familiecity20",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "fee88f75-0a9a-447f-9f2a-1ac47945bff7",
+      "name": "Baylife RP",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 2040,
+      "tags": [
+        "Public"
+      ],
+      "description": "General public FiveM roleplay server (French). Built on ESX. Features: EMS, gangs, economy, racing.",
+      "connect_url": "https://cfx.re/join/9zj5ay",
+      "discord_url": "https://discord.gg/baylife",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "5624b4fb-154f-4631-be1e-e03ac2a7c65c",
+      "name": "Grand Roleplay US 1",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 2048,
+      "tags": [
+        "Public",
+        "us",
+        "community",
+        "economy",
+        "realistic",
+        "cars",
+        "jobs",
+        "police"
+      ],
+      "description": "Serious public FiveM roleplay server. Features: police, gangs, economy, jobs, drugs, racing.",
+      "connect_url": "https://cfx.re/join/vqqlm4e",
+      "discord_url": "https://discord.gg/gta5grandcom",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "865f3fff-069d-486e-aa4e-077bacf1996d",
+      "name": "CIDADE NOBRE",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 2048,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "Nobre RolePlay brasil"
+      ],
+      "description": "General public FiveM roleplay server (Portuguese). Built on vRP. Features: racing, in-game voice.",
+      "connect_url": "https://cfx.re/join/vxz4gq",
+      "discord_url": "https://discord.gg/cidadenobre",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "b9983884-1273-4358-94b3-aa47c45ffa7c",
+      "name": "DIAMOND CITY RP SÉRIEUX GRANDE FAMILLE",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 2048,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "Organisation",
+        "Gang",
+        "LSPD",
+        "BCSO",
+        "Gouvernement",
+        "freeacces"
+      ],
+      "description": "General public FiveM roleplay server (French). Built on ESX. Features: police, EMS, gangs, mafia, economy, in-game voice.",
+      "connect_url": "https://cfx.re/join/9oo7mm",
+      "discord_url": "https://discord.gg/DiamondCityRP",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "745a8db5-dab4-4c0c-b51b-1d2558472636",
+      "name": "SlaxRP Romania",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 1200,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "slax",
+        "romania"
+      ],
+      "description": "General public FiveM roleplay server (Romanian). Built on vRP. Features: police, EMS, economy, heists, in-game voice.",
+      "connect_url": "https://cfx.re/join/jy9ekm",
+      "discord_url": "https://discord.gg/slaxrp",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "64227ebd-b94a-4ff9-bef4-a268c2e48db4",
+      "name": "مقاطعة بوليتو",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 2048,
+      "tags": [
+        "Allowlist",
+        "In-Game Voice",
+        "police",
+        "jobs",
+        "arab"
+      ],
+      "description": "General allowlist FiveM roleplay server (Arabic). Built on ESX. Features: police, EMS, economy, jobs, drugs, in-game voice.",
+      "connect_url": "https://cfx.re/join/dm4rjq",
+      "discord_url": "https://discord.gg/mb7",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "f0ba4653-4e37-4877-b7e1-b628b6a0efd8",
+      "name": "DISTRICT 99",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 2048,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "District 99",
+        "D99"
+      ],
+      "description": "General public FiveM roleplay server. Built on vRP. Features: racing, in-game voice.",
+      "connect_url": "https://cfx.re/join/5dg4mr",
+      "discord_url": "https://discord.gg/d-99",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "5d805631-bc73-40d6-98db-4007fff45386",
+      "name": "RIA ROLEPLAY NON-WHITELIST",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 1881,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "sosyal",
+        "nonwh"
+      ],
+      "description": "General public FiveM roleplay server (Turkish). Built on QBCore. Features: police, EMS, economy, jobs, racing, in-game voice.",
+      "connect_url": "https://cfx.re/join/zjvqmgd",
+      "discord_url": "https://discord.gg/riaroleplay",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "28eac4da-94b9-4f28-a302-fda54a52a9fa",
+      "name": "CIDADE SANTA",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 2048,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "Cidade Santa Roleplay",
+        "brasil",
+        "ROLEWAR"
+      ],
+      "description": "General public FiveM roleplay server (Portuguese). Built on vRP. Features: racing, in-game voice.",
+      "connect_url": "https://cfx.re/join/ymkax5",
+      "discord_url": "https://discord.gg/cidadesanta",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "981697dc-ca0a-48e2-8571-1ae46298c7c7",
+      "name": "RINA ROLEPLAY",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 2048,
+      "tags": [
+        "Public",
+        "text",
+        "hard",
+        "rina",
+        "text-rp"
+      ],
+      "description": "General public FiveM roleplay server (Turkish). Features: police.",
+      "connect_url": "https://cfx.re/join/vqqbrpq",
+      "discord_url": "https://discord.gg/rinav",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "8e98e3b4-0ce2-4890-8cc8-2c328a2cdda6",
+      "name": "FlashBack FA",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 2048,
+      "tags": [
+        "Public",
+        "fa",
+        "fr"
+      ],
+      "description": "General public FiveM roleplay server (French). Features: police, EMS, gangs, drugs.",
+      "connect_url": "https://cfx.re/join/k4aqg7",
+      "discord_url": "https://discord.gg/flashbackfa",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "a36f9ed0-fbac-45c4-a7cf-555edd55066c",
+      "name": "مدينة الـ90",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 2000,
+      "tags": [
+        "Allowlist",
+        "In-Game Voice",
+        "police",
+        "ambulance",
+        "jobs",
+        "arab",
+        "cfw"
+      ],
+      "description": "General allowlist FiveM roleplay server (Arabic). Built on ESX. Features: police, EMS, gangs, economy, jobs, drugs.",
+      "connect_url": "https://cfx.re/join/xjrrle",
+      "discord_url": "https://discord.gg/a90",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "84b036b5-9c66-4775-aec7-e0b8f274789b",
+      "name": "Crimson City",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 1000,
+      "tags": [
+        "Allowlist",
+        "In-Game Voice",
+        "optimized",
+        "asia",
+        "philippines"
+      ],
+      "description": "General allowlist FiveM roleplay server. Built on ESX. Features: police, EMS, gangs, economy, jobs, in-game voice.",
+      "connect_url": "https://cfx.re/join/jjdyek",
+      "discord_url": "https://discord.gg/crimsoncity",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "89445e95-4ce1-405d-8267-c075adbda53a",
+      "name": "UNITY RP V2 #1",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 2048,
+      "tags": [
+        "Public",
+        "life",
+        "fa",
+        "fr"
+      ],
+      "description": "General public FiveM roleplay server (French). Features: police, EMS, gangs.",
+      "connect_url": "https://cfx.re/join/q8538p",
+      "discord_url": "https://discord.gg/unityrp",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "5e1a0d36-a11b-40ce-9c90-0356297bacc1",
+      "name": "CIDADE GRANDE",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 2048,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "[BRASIL] CIDADE GRANDE"
+      ],
+      "description": "General public FiveM roleplay server (Portuguese). Built on vRP. Features: racing, in-game voice.",
+      "connect_url": "https://cfx.re/join/vre5mr",
+      "discord_url": "https://discord.gg/granderp",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "147a35e1-0166-4952-9992-ea5542e405c6",
+      "name": "Grave RP",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 966,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "vRP Framework"
+      ],
+      "description": "General public FiveM roleplay server (Arabic). Built on ESX. Features: police, gangs, heists, in-game voice.",
+      "connect_url": "https://cfx.re/join/rmm5kg7",
+      "discord_url": "https://discord.gg/P5",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "0e8b5f85-c261-421f-a84b-8ac8301d0d95",
+      "name": "Apollo Networks",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 2048,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "australian",
+        "police",
+        "custom"
+      ],
+      "description": "General public FiveM roleplay server. Built on ESX. Features: police, EMS, gangs, economy, jobs, drugs.",
+      "connect_url": "https://cfx.re/join/ddvr9j",
+      "discord_url": "https://discord.gg/apollonetworks",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "ab537682-6875-4775-be70-da4cf194a8e8",
+      "name": "REDSIDE RP V5",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 1450,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "fr",
+        "qc",
+        "blg",
+        "rp strict",
+        "custom cars",
+        "custom"
+      ],
+      "description": "Serious public FiveM roleplay server (French). Features: police, EMS, gangs, mafia, economy, jobs.",
+      "connect_url": "https://cfx.re/join/k7lrad",
+      "discord_url": "https://discord.gg/redside",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "75f05c60-357e-4d84-8314-b033f1cdb10c",
+      "name": "مقاطعة العاذرية",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 2000,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "cfw",
+        "qbcore",
+        "arab",
+        "police",
+        "ambulance",
+        "jobs"
+      ],
+      "description": "General public FiveM roleplay server (Arabic). Built on ESX. Features: police, EMS, gangs, economy, jobs, drugs.",
+      "connect_url": "https://cfx.re/join/eqz73a",
+      "discord_url": "https://discord.gg/ath",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "72a5f74c-f56a-474f-b2de-fba6cfdb18db",
+      "name": "OsloRP",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 750,
+      "tags": [
+        "Allowlist",
+        "In-Game Voice",
+        "WL-OFF"
+      ],
+      "description": "General allowlist FiveM roleplay server (Polish). Built on ESX. Features: police, EMS, gangs, economy, jobs, racing.",
+      "connect_url": "https://cfx.re/join/y99l65j",
+      "discord_url": "https://discord.gg/osloroleplay",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "44564a60-cbb2-48d9-bc17-3b8e30dcb9d5",
+      "name": "Unity RP",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 966,
+      "tags": [
+        "Public",
+        "In-Game Voice"
+      ],
+      "description": "General public FiveM roleplay server (Arabic). Built on vRP. Features: gangs, economy, in-game voice.",
+      "connect_url": "https://cfx.re/join/55xbk6",
+      "discord_url": "https://discord.gg/UY",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "5d51b6bb-2f05-4eb9-a2c0-959c4ac28e5f",
+      "name": "Arab Evils RP",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 600,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "arabic"
+      ],
+      "description": "General public FiveM roleplay server (Arabic). Built on vRP. Features: police, gangs, in-game voice.",
+      "connect_url": "https://cfx.re/join/3yg5jyb",
+      "discord_url": "https://discord.gg/AE3",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "4b67e643-61d4-41b4-972d-3046d0def9f1",
+      "name": "FLUXO ROLEPLAY OFICIAL",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 2048,
+      "tags": [
+        "Public",
+        "In-Game Voice"
+      ],
+      "description": "General public FiveM roleplay server (Portuguese). Built on vRP. Features: police, racing, in-game voice.",
+      "connect_url": "https://cfx.re/join/djoq65",
+      "discord_url": "https://discord.gg/fluxorp",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "b6121bb7-c8cd-4937-b917-59a3971bbf07",
+      "name": "NUSA V ROLEPLAY INDONESIA",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 1000,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "indonesia",
+        "malaysia",
+        "nusa"
+      ],
+      "description": "General public FiveM roleplay server (Indonesian). Built on QBCore. Features: EMS, economy, drugs, racing, in-game voice.",
+      "connect_url": "https://cfx.re/join/ele3bm",
+      "discord_url": "https://discord.gg/nusarp",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "843d8a1c-db83-404e-8a55-ada6fd2d2379",
+      "name": "XEN ROLEPLAY NON WHITELIST",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 999,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "tr",
+        "sosyal",
+        "non-whitelist"
+      ],
+      "description": "General public FiveM roleplay server (Turkish). Built on QBCore. Features: police, EMS, jobs, heists, racing, in-game voice.",
+      "connect_url": "https://cfx.re/join/m4zv6av",
+      "discord_url": "https://discord.gg/xenrp",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "a92a083e-14e4-45da-848b-6f7d02b053fd",
+      "name": "CORLEONE CITY REMASTERED UPDATE",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 2048,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "german",
+        "deutsch",
+        "customFramework"
+      ],
+      "description": "General public FiveM roleplay server (German). Features: police, gangs, heists, in-game voice.",
+      "connect_url": "https://cfx.re/join/d43jey",
+      "discord_url": "https://discord.gg/corleone",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "837b6840-7e79-4149-be93-4e37541e10d5",
+      "name": "RevolutionRP",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 2048,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "fr",
+        "qc",
+        "blg",
+        "rp strict",
+        "custom cars",
+        "custom"
+      ],
+      "description": "Serious public FiveM roleplay server (French). Built on ESX. Features: police, EMS, mafia, economy, jobs, drugs.",
+      "connect_url": "https://cfx.re/join/zqm5ey",
+      "discord_url": "https://discord.gg/revrp",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "0559eaea-cc45-403b-b984-206c53818abd",
+      "name": "AtlanticRP",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 2048,
+      "tags": [
+        "Public",
+        "In-Game Voice"
+      ],
+      "description": "General public FiveM roleplay server (Portuguese). Features: police, racing, in-game voice.",
+      "connect_url": "https://cfx.re/join/8lla53",
+      "discord_url": "https://discord.gg/atlanticrp",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "c851725a-ca63-4802-a8d4-0f42d66808d6",
+      "name": "FAZERP BOJÓWKA »WL-OFF« NOWOŚCI𓇻",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 676,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "pvp",
+        "bojowka",
+        "pl"
+      ],
+      "description": "General public FiveM roleplay server (Polish). Built on ESX. Features: police, EMS, jobs, in-game voice.",
+      "connect_url": "https://cfx.re/join/j4rljq4",
+      "discord_url": "https://discord.gg/fazerp",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "21537fac-ff8e-48b7-be97-815c19906e07",
+      "name": "CIDADE MARESIA",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 2048,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "Maresia RP",
+        "brasil"
+      ],
+      "description": "General public FiveM roleplay server (Portuguese). Built on vRP. Features: racing, in-game voice.",
+      "connect_url": "https://cfx.re/join/ym86dj",
+      "discord_url": "https://discord.gg/cidademaresia",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "ff5ab7ad-0642-40be-bc95-124a79aab38c",
+      "name": "MALTA RP INAUGUROU",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 2048,
+      "tags": [
+        "Public",
+        "In-Game Voice"
+      ],
+      "description": "General public FiveM roleplay server (Portuguese). Built on vRP. Features: racing, in-game voice.",
+      "connect_url": "https://cfx.re/join/exzk3m",
+      "discord_url": "https://discord.gg/malta-rp",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "7225d632-4ba5-42de-bfa7-71084f1c2f06",
+      "name": "Fat Duck Gaming",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 1000,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "fdg",
+        "aus",
+        "australia",
+        "ozzie",
+        "oce",
+        "life"
+      ],
+      "description": "Serious public FiveM roleplay server. Features: police, EMS, gangs, economy, jobs, businesses.",
+      "connect_url": "https://cfx.re/join/3y3jjr",
+      "discord_url": "https://discord.gg/fatduckgaming",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "5ef84319-2bc9-4bd7-8c37-d369c91beb91",
+      "name": "SPAINROL OFICIAL LO QUE QUEDA DE ROL",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 2025,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "españa",
+        "spain",
+        "nowl",
+        "español",
+        "rol",
+        "ems"
+      ],
+      "description": "General public FiveM roleplay server (Spanish). Built on ESX. Features: police, EMS, in-game voice.",
+      "connect_url": "https://cfx.re/join/epzqqm",
+      "discord_url": "https://discord.gg/2CRtsaNena",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "310ee8b6-724f-4612-9471-ba03da7e8ff7",
+      "name": "LAC The First Generation",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 2048,
+      "tags": [
+        "Public",
+        "pvp",
+        "rpg",
+        "여우도시"
+      ],
+      "description": "General public FiveM roleplay server (Korean). Features: police, EMS.",
+      "connect_url": "https://cfx.re/join/rz4o6g",
+      "discord_url": "https://discord.gg/lacgg",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "2c3cf159-5fcf-4fd8-9d68-e306814105c9",
+      "name": "PRO4KINGS ROMANIA",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 1150,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "Pro4kings",
+        "Romania",
+        "FPS Boost"
+      ],
+      "description": "General public FiveM roleplay server (Romanian). Built on vRP. Features: police, gangs, economy, drugs, in-game voice.",
+      "connect_url": "https://cfx.re/join/y8p67j",
+      "discord_url": "https://discord.gg/pro4kings",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "9d270bed-f461-4866-b736-a5c323f65ad1",
+      "name": "The 305",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 400,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "305",
+        "miami",
+        "semi serious"
+      ],
+      "description": "Semi-serious public FiveM roleplay server. Built on ESX. Features: police, EMS, economy, businesses, drugs, in-game voice.",
+      "connect_url": "https://cfx.re/join/m44dlaa",
+      "discord_url": "https://discord.gg/the305rp",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "991b823e-7793-4063-a2b0-e2ce55affdf1",
+      "name": "Focus Roleplay Balkan NAJBOLJI FPS",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 2048,
+      "tags": [
+        "Public",
+        "balkan",
+        "fgrp",
+        "Focus Gaming",
+        "Focus Roleplay"
+      ],
+      "description": "General public FiveM roleplay server (Serbian). Features: police, gangs.",
+      "connect_url": "https://cfx.re/join/gad7odz",
+      "discord_url": "https://discord.gg/focusmp",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "ce751920-bb54-4549-9a66-88cdbf7109e1",
+      "name": "77RP WL:OFF",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 250,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "77RP",
+        "77ROLEPLAY",
+        "WL ON",
+        "77"
+      ],
+      "description": "General public FiveM roleplay server (Polish). Features: police, EMS, gangs, economy, businesses, drugs.",
+      "connect_url": "https://cfx.re/join/965vlm",
+      "discord_url": "https://discord.gg/77wloff",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "add80274-4fae-452b-a280-3a1f5641d56f",
+      "name": "시그널ᆞSIGNAL",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 2048,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "korea",
+        "kr"
+      ],
+      "description": "General public FiveM roleplay server (Korean). Features: police, gangs, economy, heists, in-game voice.",
+      "connect_url": "https://cfx.re/join/gaagj8o",
+      "discord_url": "https://discord.gg/sig-rp",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "d048f71c-3688-489e-ade0-f21e18702bf5",
+      "name": "HighLife Roleplay",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 400,
+      "tags": [
+        "Public",
+        "highlife",
+        "police",
+        "ems",
+        "custom cars",
+        "jobs",
+        "serious",
+        "seriousrp"
+      ],
+      "description": "Serious public FiveM roleplay server. Features: police, EMS, economy, jobs, drugs, custom cars.",
+      "connect_url": "https://cfx.re/join/v87yoq",
+      "discord_url": "https://discord.gg/highlife",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "bd2f4219-fd5d-43f2-9362-c8b234d18358",
+      "name": "VICEEEE CITY #SEASON 3",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 2048,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "creative",
+        "network",
+        "pvp",
+        "br",
+        "brasil",
+        "brazil"
+      ],
+      "description": "General public FiveM roleplay server (Portuguese). Built on vRP. Features: police, EMS, racing, in-game voice.",
+      "connect_url": "https://cfx.re/join/m44v84q",
+      "discord_url": "https://discord.gg/vicecityroleplay",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "52fbe343-0f8f-4f33-af44-51e9c103168f",
+      "name": "KNG ESTATE",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 2048,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "KNG Estate"
+      ],
+      "description": "General public FiveM roleplay server. Built on vRP. Features: racing, in-game voice.",
+      "connect_url": "https://cfx.re/join/vv934e",
+      "discord_url": "https://discord.gg/kngestate",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "02a8e23e-9271-4db0-96e7-2a4a95d337db",
+      "name": "New Era Roleplay",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 300,
+      "tags": [
+        "Allowlist",
+        "In-Game Voice"
+      ],
+      "description": "General allowlist FiveM roleplay server. Built on ESX. Features: police, EMS, gangs, economy, jobs, businesses.",
+      "connect_url": "https://cfx.re/join/amjvl9",
+      "discord_url": "https://discord.gg/neweraroleplay",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "e9cddd89-5a87-42f8-9d59-8c1594e28bfb",
+      "name": "FlashWorld FA",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 2048,
+      "tags": [
+        "Public",
+        "fr",
+        "fa"
+      ],
+      "description": "General public FiveM roleplay server (French). Features: EMS, gangs, drugs.",
+      "connect_url": "https://cfx.re/join/74roba",
+      "discord_url": "https://discord.gg/flashworld",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "1bff23dc-c6cb-42e2-bae7-b6b122153458",
+      "name": "UNITY Legacy #1 #NOUVEAU SERVEUR",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 1000,
+      "tags": [
+        "Public",
+        "life",
+        "fa",
+        "fr"
+      ],
+      "description": "General public FiveM roleplay server (French). Features: police, EMS, gangs.",
+      "connect_url": "https://cfx.re/join/9866mb",
+      "discord_url": "https://discord.gg/unitylegacy",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "3b71f7a3-6249-4a35-a05b-75a60a45ce91",
+      "name": "The Land LA",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 224,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "gangs",
+        "police",
+        "friendly",
+        "semi serious",
+        "combat",
+        "seriousrp"
+      ],
+      "description": "Semi-serious public FiveM roleplay server. Built on ESX. Features: police, EMS, gangs, economy, jobs, businesses.",
+      "connect_url": "https://cfx.re/join/7b9rjor",
+      "discord_url": "https://discord.gg/tlla",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "ab0edb19-386b-4a4c-96d9-afefbb5b2f74",
+      "name": "HAOS^ 7ROMANIA REBORN",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 300,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "PaletoBay",
+        "LosHaos",
+        "wars",
+        "romania",
+        "hrp",
+        "droguri"
+      ],
+      "description": "General public FiveM roleplay server (Romanian). Built on vRP. Features: police, EMS, heists, custom cars, in-game voice.",
+      "connect_url": "https://cfx.re/join/marpjv",
+      "discord_url": "https://discord.gg/haosro",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "aa0dea9b-16e4-4ce5-84f2-bd65420abcee",
+      "name": "SE5 Revolucija Testni",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 200,
+      "tags": [
+        "Allowlist",
+        "In-Game Voice",
+        "Revolucija",
+        "Balkan",
+        "sanin",
+        "sokol",
+        "Venom",
+        "Byte"
+      ],
+      "description": "General allowlist FiveM roleplay server (Bosnian). Built on ESX. Features: police, drugs, in-game voice.",
+      "connect_url": "https://cfx.re/join/o4pxpj",
+      "discord_url": "https://discord.gg/revolucija",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "d6baae31-c1d2-40ab-95a0-bc89577f5fee",
+      "name": "STRP Europe",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 750,
+      "tags": [
+        "Allowlist",
+        "In-Game Voice",
+        "STRP",
+        "economy",
+        "lspd",
+        "public"
+      ],
+      "description": "General allowlist FiveM roleplay server. Built on ESX. Features: police, EMS, gangs, economy, jobs, businesses.",
+      "connect_url": "https://cfx.re/join/n446av",
+      "discord_url": "https://discord.gg/STRP",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "eb9e3b74-3d70-44c5-801a-30caec2b5a53",
+      "name": "FRATWORLD RP FA",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 1024,
+      "tags": [
+        "Public",
+        "fa"
+      ],
+      "description": "General public FiveM roleplay server (French). Features: police, gangs, racing.",
+      "connect_url": "https://cfx.re/join/am774e",
+      "discord_url": "https://discord.gg/fratworld",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "2baeda34-aace-4997-bd4c-5ee108440112",
+      "name": "WISE FA RP SÉRIEUX PAS D'ARMES PERM",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 800,
+      "tags": [
+        "Public",
+        "wise",
+        "drugs",
+        "qc",
+        "ch",
+        "rp scrict",
+        "custom cars",
+        "custom"
+      ],
+      "description": "Serious public FiveM roleplay server (French). Features: police, EMS, mafia, drugs, racing, custom cars.",
+      "connect_url": "https://cfx.re/join/zxz9q9",
+      "discord_url": "https://discord.gg/wisefa",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "31949378-fd61-4472-972f-7490b75a56f7",
+      "name": "HOPE INDONESIA",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 1000,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "dev"
+      ],
+      "description": "General public FiveM roleplay server. Built on Qbox. Features: economy, racing, in-game voice.",
+      "connect_url": "https://cfx.re/join/ymzj4j",
+      "discord_url": "https://discord.gg/hopeindonesia",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "445cb81c-8108-44d9-873c-b8d4d687550d",
+      "name": "ibizarp.es #INAUGURACIÓN HOY 20-OCT",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 400,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "ROL",
+        "ActitudPositiva"
+      ],
+      "description": "General public FiveM roleplay server (Spanish). Built on ESX. Features: EMS, jobs, in-game voice.",
+      "connect_url": "https://cfx.re/join/4z9bxq",
+      "discord_url": "https://discord.gg/ibizarpes",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "e88f22ad-47d1-4985-99b9-d47053396019",
+      "name": "Balkan Vortex Roleplay",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 300,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "balkan",
+        "srbija",
+        "bosna",
+        "hrvatska",
+        "makedonija",
+        "crna gora"
+      ],
+      "description": "Serious public FiveM roleplay server (Serbian). Built on ESX. Features: police, EMS, gangs, economy, jobs, businesses.",
+      "connect_url": "https://cfx.re/join/joa4pa",
+      "discord_url": "https://discord.gg/vortexrp",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "a3638fed-cbb4-4ec1-9b05-1185431689c3",
+      "name": "GL1TCH NYC V5 Story-Driven RPFemale S",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 200,
+      "tags": [
+        "Allowlist",
+        "In-Game Voice",
+        "whitecity",
+        "heights",
+        "shiesty",
+        "mud",
+        "high",
+        "para"
+      ],
+      "description": "Semi-serious allowlist FiveM roleplay server. Built on ESX. Features: police, EMS, gangs, economy, businesses, drugs.",
+      "connect_url": "https://cfx.re/join/xlz5dzr",
+      "discord_url": "https://discord.gg/gl1tchnyc",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "a01ce8f7-95e5-4236-8fc7-cd851f2c56eb",
+      "name": "Libra RP",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 2048,
+      "tags": [
+        "Public",
+        "us",
+        "community",
+        "economy",
+        "realistic",
+        "seriousrp",
+        "gangs",
+        "police"
+      ],
+      "description": "Serious public FiveM roleplay server. Features: police, EMS, gangs, economy.",
+      "connect_url": "https://cfx.re/join/pgak8ay",
+      "discord_url": "https://discord.gg/librarp",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "949eaf11-0bde-40a5-99c1-ee3caea8ca5e",
+      "name": "MyRP.pl",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 750,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "MyRP",
+        "Polska",
+        "pl"
+      ],
+      "description": "General public FiveM roleplay server (Polish). Built on QBCore. Features: police, EMS, gangs, economy, jobs, drugs.",
+      "connect_url": "https://cfx.re/join/3yy5q9o",
+      "discord_url": "https://discord.gg/myrp",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "fff74305-8e24-4fde-a638-86537599f09a",
+      "name": "FutureIL V7",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 1024,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "police",
+        "hebrew",
+        "israel",
+        "custom cars",
+        "ems",
+        "ambulance"
+      ],
+      "description": "General public FiveM roleplay server (Hebrew). Built on ESX. Features: police, EMS, gangs, economy, jobs, drugs.",
+      "connect_url": "https://cfx.re/join/4agj4q",
+      "discord_url": "https://discord.gg/FutureIL",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "db447061-83b3-4778-bfd0-1fe258bf0b9e",
+      "name": "The Palms OPEN NOW OCTOBER 31ST!",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 630,
+      "tags": [
+        "Allowlist",
+        "In-Game Voice",
+        "The Palms",
+        "immersive",
+        "female"
+      ],
+      "description": "Semi-serious allowlist FiveM roleplay server. Built on ESX. Features: police, EMS, gangs, economy, businesses, drugs.",
+      "connect_url": "https://cfx.re/join/jlk4xk",
+      "discord_url": "https://discord.gg/thepalms",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "82c9edf3-b0ef-489e-8a87-92c95fcb35ea",
+      "name": "Legacy Roleplay India Recently Wiped",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 300,
+      "tags": [
+        "Public",
+        "legacy",
+        "police",
+        "cars",
+        "drugs",
+        "custom"
+      ],
+      "description": "General public FiveM roleplay server. Features: police, gangs, drugs, racing.",
+      "connect_url": "https://cfx.re/join/zxlqbp",
+      "discord_url": "https://discord.gg/legacyindia",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "3ccedf14-9002-40e1-85d2-918626c03e3d",
+      "name": "Soulcity by EchoRP",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 200,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "police",
+        "cars",
+        "ems",
+        "jobs",
+        "serious",
+        "cops"
+      ],
+      "description": "Serious public FiveM roleplay server. Features: police, EMS, gangs, economy, jobs, businesses.",
+      "connect_url": "https://cfx.re/join/5m43x6",
+      "discord_url": "https://discord.gg/soulcitygg",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "4cda3b78-b493-49d0-ac72-bb30b4fb806d",
+      "name": "꿀벌서버 HoneyBeeᆞ",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 982,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "PW-Framework",
+        "South Korea"
+      ],
+      "description": "General public FiveM roleplay server (Korean). Features: police, racing, in-game voice.",
+      "connect_url": "https://cfx.re/join/z8op95",
+      "discord_url": "https://discord.gg/hbee",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "7a6a3ab5-ddb6-4cd9-a81d-c94f3230285e",
+      "name": "Devas City",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 500,
+      "tags": [
+        "Allowlist",
+        "In-Game Voice",
+        "optimized",
+        "asia",
+        "philippines"
+      ],
+      "description": "General allowlist FiveM roleplay server. Built on ESX. Features: police, EMS, economy, jobs, in-game voice.",
+      "connect_url": "https://cfx.re/join/pb3qyy",
+      "discord_url": "https://discord.gg/s2CeT5cBGk",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "c1936bff-a925-4ca7-bde1-5dceacd64b4b",
+      "name": "ORG RP INAUGURACIÓN AHORA #TOP",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 2000,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "latam",
+        "serio",
+        "top",
+        "2026"
+      ],
+      "description": "General public FiveM roleplay server (Spanish). Built on ESX. Features: police, EMS, economy, in-game voice.",
+      "connect_url": "https://cfx.re/join/bo578d",
+      "discord_url": "https://discord.gg/Jp9FYrBk3F",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "7243ebb7-0e79-4c91-9024-9c3ae8422242",
+      "name": "Sunset Stories 18 Spooky Season",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 400,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "gangs",
+        "drugs",
+        "jobs"
+      ],
+      "description": "General public FiveM roleplay server. Built on ESX. Features: police, EMS, gangs, economy, jobs, drugs.",
+      "connect_url": "https://cfx.re/join/8eelj5b",
+      "discord_url": "https://discord.gg/sunset",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "658a8597-deed-4a0e-8f9f-9b69111fe993",
+      "name": "Game Zone Israel",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 600,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "gzone",
+        "gamezone",
+        "israel"
+      ],
+      "description": "General public FiveM roleplay server (Hebrew). Built on ESX. Features: police, EMS, gangs, economy, jobs, drugs.",
+      "connect_url": "https://cfx.re/join/am35ok",
+      "discord_url": "https://discord.gg/gzoneil",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "6a5c6467-e131-4bb7-ac17-230a46a35315",
+      "name": "Switch Roleplay",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 200,
+      "tags": [
+        "Public",
+        "In-Game Voice"
+      ],
+      "description": "General public FiveM roleplay server. Built on Qbox. Features: police, EMS, gangs, economy, drugs, heists.",
+      "connect_url": "https://cfx.re/join/lee4koo",
+      "discord_url": "https://discord.gg/switchfivem",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "f07f3a02-8807-40bd-97bd-fe87b24e3379",
+      "name": "California Roleplay",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 350,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "vmenu",
+        "english",
+        "police",
+        "us"
+      ],
+      "description": "General public FiveM roleplay server. Features: police, gangs, businesses, drugs, in-game voice.",
+      "connect_url": "https://cfx.re/join/ajv9r5",
+      "discord_url": "https://discord.gg/calirp",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "6c7224d0-0097-48a8-938b-61f07da2471d",
+      "name": "City Of Love",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 400,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "miami",
+        "lifestyle",
+        "cityoflove",
+        "semi-serious",
+        "Streamer"
+      ],
+      "description": "Semi-serious public FiveM roleplay server. Built on ESX. Features: police, EMS, economy, businesses, racing, in-game voice.",
+      "connect_url": "https://cfx.re/join/e6ezjea",
+      "discord_url": "https://discord.gg/cityoflove",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "5f8c8ac1-ba3b-45d3-8bf9-7a8952e6a1a0",
+      "name": "LIBERTY 99",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 2048,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "Liberty 99",
+        "L99"
+      ],
+      "description": "General public FiveM roleplay server. Built on vRP. Features: racing, in-game voice.",
+      "connect_url": "https://cfx.re/join/oax6pvv",
+      "discord_url": "https://discord.gg/l99",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "6886359f-1062-4321-8c1f-2b795b0df314",
+      "name": "Rolas Academy ESP",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 1000,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "DM",
+        "GangWars",
+        "PVP",
+        "Academy"
+      ],
+      "description": "General public FiveM roleplay server (Spanish). Built on ESX. Features: police, EMS, gangs, economy, jobs, in-game voice.",
+      "connect_url": "https://cfx.re/join/xv9vge",
+      "discord_url": "https://discord.gg/rolasesp",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "76e0ca7d-f959-4a69-8d1c-217963c4c06f",
+      "name": "DayBreak RP",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 300,
+      "tags": [
+        "Allowlist",
+        "In-Game Voice",
+        "18 Whitelisted Server",
+        "Active PD/EMS",
+        "Lore Friendly",
+        "Gang System",
+        "Active Development"
+      ],
+      "description": "Casual allowlist FiveM roleplay server. Built on QBCore. Features: police, EMS, gangs, economy, jobs, drugs.",
+      "connect_url": "https://cfx.re/join/ooylmr",
+      "discord_url": "https://discord.gg/daybreakroleplay",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "3aa0987b-abaa-4c9c-a6eb-c637d678bdcb",
+      "name": "South Beach V2",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 500,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "SEMI",
+        "miami",
+        "southbeach",
+        "semiserious",
+        "south beach"
+      ],
+      "description": "Semi-serious public FiveM roleplay server. Built on ESX. Features: police, EMS, economy, businesses, racing, in-game voice.",
+      "connect_url": "https://cfx.re/join/3eddyb",
+      "discord_url": "https://discord.gg/southbeach",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "086ce54e-349d-4e8c-9a07-a0de2506f395",
+      "name": "HydraSync Roleplay",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 175,
+      "tags": [
+        "Allowlist",
+        "indian",
+        "seriousRP"
+      ],
+      "description": "Serious allowlist FiveM roleplay server.",
+      "connect_url": "https://cfx.re/join/5ooe5pr",
+      "discord_url": "https://discord.gg/hydrasync",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "7ec1baf5-2f3d-405a-aecc-989661d20884",
+      "name": "SpainCity Evolution HALLOWEEN EDITION",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 350,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "spaincity",
+        "spain",
+        "carreras",
+        "rol"
+      ],
+      "description": "General public FiveM roleplay server (Spanish). Built on ESX. Features: police, EMS, economy, jobs, businesses, drugs.",
+      "connect_url": "https://cfx.re/join/4ggm3b9",
+      "discord_url": "https://discord.gg/spaincity",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "e9b070d6-fda8-40df-a54c-669fc878120b",
+      "name": "EchoRP",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 250,
+      "tags": [
+        "Allowlist",
+        "In-Game Voice",
+        "police",
+        "ems",
+        "economy"
+      ],
+      "description": "General allowlist FiveM roleplay server. Features: police, EMS, gangs, economy, businesses, drugs.",
+      "connect_url": "https://cfx.re/join/68oab8",
+      "discord_url": "https://discord.gg/echorp",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "a523b101-2fc2-4d2b-b709-80594ac7c2b6",
+      "name": "The Raq",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 400,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "semi serious",
+        "semi",
+        "chicago",
+        "theraq",
+        "gang"
+      ],
+      "description": "Semi-serious public FiveM roleplay server. Built on ESX. Features: police, EMS, gangs, economy, businesses, drugs.",
+      "connect_url": "https://cfx.re/join/zr7dap",
+      "discord_url": "https://discord.gg/theraq",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "e7b96839-cd9b-4363-a6a9-30dd9f900e0c",
+      "name": "CityLife RP 3.0 FRESH WIPE",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 300,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "police",
+        "cops",
+        "ems",
+        "custom cars",
+        "jobs",
+        "serious rp"
+      ],
+      "description": "Serious public FiveM roleplay server. Built on QBCore. Features: police, EMS, gangs, economy, jobs, businesses.",
+      "connect_url": "https://cfx.re/join/m4v7dq",
+      "discord_url": "https://discord.gg/CLRP",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "e566115b-33fe-4e86-a5e3-7e5375f37471",
+      "name": "Legacy RP Whitelisted",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 325,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "Danish",
+        "Dansk"
+      ],
+      "description": "General public FiveM roleplay server (Danish). Built on ESX. Features: police, EMS, gangs, economy, drugs, heists.",
+      "connect_url": "https://cfx.re/join/kby6j7",
+      "discord_url": "https://discord.gg/legacydk",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "97959799-96a4-45b6-8399-13296a219971",
+      "name": "ResetRP",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 220,
+      "tags": [
+        "Allowlist",
+        "In-Game Voice",
+        "resetrp"
+      ],
+      "description": "General allowlist FiveM roleplay server (Spanish). Built on Qbox. Features: police, EMS, gangs, economy, jobs, businesses.",
+      "connect_url": "https://cfx.re/join/a8pxze",
+      "discord_url": "https://discord.gg/NUSDNn9kev",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "e1014164-7444-481f-912c-711bd969046a",
+      "name": "Trappin Beginner Friendly",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 300,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "gangs",
+        "police",
+        "friendly",
+        "semi serious"
+      ],
+      "description": "Semi-serious public FiveM roleplay server. Features: police, EMS, gangs, drugs, in-game voice.",
+      "connect_url": "https://cfx.re/join/e6edppd",
+      "discord_url": "https://discord.gg/trappin",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "e026c37e-e69c-4ef4-ad3d-ddc79068c81e",
+      "name": "Hydrate",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 300,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "australia",
+        "economy",
+        "gangs",
+        "police"
+      ],
+      "description": "General public FiveM roleplay server. Built on ESX. Features: police, EMS, gangs, economy, businesses, drugs.",
+      "connect_url": "https://cfx.re/join/l9yp9v",
+      "discord_url": "https://discord.gg/hydraterp",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "d3aa5e89-b16e-4572-ab46-74161d507975",
+      "name": "Sunshine State RP",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 128,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "oceania",
+        "custom cars",
+        "optimized",
+        "qld",
+        "australia",
+        "queensland"
+      ],
+      "description": "General public FiveM roleplay server. Built on ESX. Features: police, EMS, gangs, economy, businesses, drugs.",
+      "connect_url": "https://cfx.re/join/qe99l6",
+      "discord_url": "https://discord.gg/sunshinestaterp",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "4e50b426-aa1e-4fc7-807f-c1cce344b1fd",
+      "name": "Miami Stories",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 350,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "Police",
+        "EMS",
+        "Gangs",
+        "Activities",
+        "Drugs"
+      ],
+      "description": "General public FiveM roleplay server. Built on ESX. Features: police, EMS, gangs, businesses, drugs, racing.",
+      "connect_url": "https://cfx.re/join/brg4j4",
+      "discord_url": "https://discord.gg/miamistories",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "db9bff99-bff3-4924-a213-609f2dc4a707",
+      "name": "ROYAL",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 2048,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "Royal RP"
+      ],
+      "description": "General public FiveM roleplay server. Built on vRP. Features: racing, in-game voice.",
+      "connect_url": "https://cfx.re/join/yg8qdj",
+      "discord_url": "https://discord.gg/royaluk",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "d3f70af1-1057-492e-ade7-3b8818c806ee",
+      "name": "ReuX FiveM 2.2 HALLOWEEN",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 200,
+      "tags": [
+        "Allowlist",
+        "In-Game Voice",
+        "esx legacy"
+      ],
+      "description": "General allowlist FiveM roleplay server (Czech). Built on ESX. Features: police, EMS, economy, drugs, heists, racing.",
+      "connect_url": "https://cfx.re/join/mxdyp9",
+      "discord_url": "https://discord.gg/reux",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "0da3541c-c376-4095-a3b5-27172612fc7f",
+      "name": "Optic",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 128,
+      "tags": [
+        "Allowlist",
+        "In-Game Voice",
+        "police",
+        "gangs",
+        "lorefriendly"
+      ],
+      "description": "Casual allowlist FiveM roleplay server. Built on Qbox. Features: police, EMS, gangs, economy, jobs, businesses.",
+      "connect_url": "https://cfx.re/join/jjd9el",
+      "discord_url": "https://discord.gg/opticnetworks",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "13959e10-d435-4745-bf38-d11490e13b0a",
+      "name": "BadlandsRP",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 300,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "police",
+        "ems",
+        "persistent"
+      ],
+      "description": "General public FiveM roleplay server. Built on vRP. Features: police, EMS, gangs, economy, racing, in-game voice.",
+      "connect_url": "https://cfx.re/join/zjkqv4",
+      "discord_url": "https://discord.gg/badlandsrp",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "6babd888-c2c7-4fe1-9801-dc86780cb5c2",
+      "name": "Summit RP",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 200,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "seriousrp",
+        "english",
+        "custom",
+        "immersive",
+        "realistic",
+        "economy"
+      ],
+      "description": "Serious public FiveM roleplay server. Built on QBCore. Features: police, EMS, gangs, economy, businesses, drugs.",
+      "connect_url": "https://cfx.re/join/javxzp",
+      "discord_url": "https://discord.gg/summitrp",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "cd7f0d97-86e9-4a95-9e6c-cddfad773f6b",
+      "name": "Windy Shooting & Scenes",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 125,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "optimized",
+        "ffa",
+        "redzone",
+        "rz",
+        "wagers",
+        "combat"
+      ],
+      "description": "General public FiveM roleplay server. Built on ESX. Features: police, drugs, in-game voice, streamer-friendly.",
+      "connect_url": "https://cfx.re/join/lerdj57",
+      "discord_url": "https://discord.gg/windyshooting",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "3346b6d7-cd57-4e29-855b-7368cf006957",
+      "name": "Phatz RP",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 150,
+      "tags": [
+        "Allowlist",
+        "In-Game Voice",
+        "Open",
+        "Join",
+        "Now"
+      ],
+      "description": "General allowlist FiveM roleplay server. Built on Qbox. Features: police, EMS, gangs, economy, jobs, businesses.",
+      "connect_url": "https://cfx.re/join/xll46vr",
+      "discord_url": "https://discord.gg/phatzrp",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "53a21934-6a11-451a-8b5e-dc40fddf5523",
+      "name": "Headliner RP",
+      "status": "OFFLINE",
+      "online_count": null,
+      "max_players": 300,
+      "tags": [
+        "Allowlist",
+        "In-Game Voice"
+      ],
+      "description": "General allowlist FiveM roleplay server. Built on Qbox. Features: police, EMS, economy, businesses, heists, racing.",
+      "connect_url": "https://cfx.re/join/m4zm5v7",
+      "discord_url": "https://discord.gg/headlinerrp",
       "is_featured": false,
       "logo_url": null
     }

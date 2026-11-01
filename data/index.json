@@ -1,7 +1,7 @@
 {
   "name": "Vice City Hub",
   "version": "12.0.0",
-  "generated_at": "2026-11-01T18:51:50.406Z",
+  "generated_at": "2026-11-01T21:36:52.678Z",
   "note": "Static snapshots refreshed on every deploy (~6h). For real-time data and purchases use the live Agent API.",
   "feeds": {
     "news": {
@@ -16,7 +16,7 @@
     },
     "rp_servers": {
       "url": "https://vicecityhub.github.io/vicecityhub/data/rp-servers.json",
-      "count": 6,
+      "count": 100,
       "live": "https://lpglkglhjdqnktybksth.supabase.co/functions/v1/agent-api/v1/rp/servers"
     },
     "rp_factions": {
