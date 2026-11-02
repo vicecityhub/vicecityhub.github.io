@@ -1,123 +1,13 @@
 {
-  "generated_at": "2026-11-01T21:36:52.678Z",
+  "generated_at": "2026-11-02T00:52:16.055Z",
   "source": "https://lpglkglhjdqnktybksth.supabase.co/functions/v1/agent-api/v1/rp/servers",
   "count": 100,
   "items": [
     {
-      "id": "e12404b0-56f6-4fef-8fd3-65c30ceb2ea2",
-      "name": "Mafia City RP",
-      "status": "WHITELIST_OPEN",
-      "online_count": null,
-      "max_players": null,
-      "tags": [
-        "Hard RP",
-        "Voice Only",
-        "Whitelisted",
-        "Custom UI"
-      ],
-      "description": "Applications open now. Dedicated to organized crime RP. If you spit wrong, you're out.",
-      "connect_url": null,
-      "discord_url": "https://discord.gg/mafiacityrp",
-      "is_featured": false,
-      "logo_url": null
-    },
-    {
-      "id": "234814f1-6410-4293-abe7-b075ea8a857f",
-      "name": "Vice City Online",
-      "status": "IN_DEVELOPMENT",
-      "online_count": null,
-      "max_players": null,
-      "tags": [
-        "FiveM",
-        "Custom UI",
-        "Economy Sim",
-        "Hard RP"
-      ],
-      "description": "Set in Vice City map. 80s aesthetics, drug trade mechanics, Scarface energy. Q2 2025 launch.",
-      "connect_url": null,
-      "discord_url": null,
-      "is_featured": false,
-      "logo_url": null
-    },
-    {
-      "id": "bf6b3f40-4e22-4716-bf92-e037f2854f1d",
-      "name": "Leonida State RP",
-      "status": "IN_DEVELOPMENT",
-      "online_count": null,
-      "max_players": null,
-      "tags": [
-        "Hard RP",
-        "Custom UI",
-        "Economy Sim",
-        "Whitelisted"
-      ],
-      "description": "GTA 6 Leonida map when it drops. Building the framework now. Whitelist applications pre-open.",
-      "connect_url": null,
-      "discord_url": "https://discord.gg/leonida",
-      "is_featured": false,
-      "logo_url": null
-    },
-    {
-      "id": "56e10813-6d7a-47c6-b0e9-e2b54aac2279",
-      "name": "SRTG RP",
-      "status": null,
-      "online_count": null,
-      "max_players": null,
-      "tags": [
-        "Hard RP",
-        "Voice Only",
-        "Custom UI",
-        "Economy Sim",
-        "Public"
-      ],
-      "description": "Free Access. No pay to win. Custom scripts built in-house. Gang, LSPD, EMS, Civilian — every role shapes the city. Your story starts small and ends at the top.",
-      "connect_url": null,
-      "discord_url": "https://discord.gg/srtg",
-      "is_featured": false,
-      "logo_url": null
-    },
-    {
-      "id": "7033864f-26a6-4a13-b7d6-1ae59c04f25c",
-      "name": "Vision RP",
-      "status": "WHITELIST_OPEN",
-      "online_count": null,
-      "max_players": null,
-      "tags": [
-        "Hard RP",
-        "Whitelisted",
-        "Custom UI",
-        "Economy Sim",
-        "NoPixel Style"
-      ],
-      "description": "Quality over quantity. Gang and MC slots open. Legal businesses available for takeover. Whitelist sessions Mon–Fri 18h–20h. Every scene leaves a mark.",
-      "connect_url": null,
-      "discord_url": "https://discord.gg/visionrp",
-      "is_featured": false,
-      "logo_url": null
-    },
-    {
-      "id": "65d6fad3-2b05-4c5d-8e77-daf75c2d60ab",
-      "name": "American Dream RP",
-      "status": null,
-      "online_count": null,
-      "max_players": null,
-      "tags": [
-        "Hard RP",
-        "Whitelisted",
-        "Economy Sim",
-        "Voice Only"
-      ],
-      "description": "Serious US-style RP. WL server. Custom businesses, exclusive features, reactive staff. Legal and illegal recruitment open. 30–40 active players nightly. Beginners welcome.",
-      "connect_url": null,
-      "discord_url": "https://discord.gg/fsFdNeunTp",
-      "is_featured": false,
-      "logo_url": null
-    },
-    {
       "id": "125e6399-e5e1-429d-beaa-36d86d93b3fc",
       "name": "LUV TOWN OFFICIAL",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 448,
       "max_players": 1700,
       "tags": [
         "Public",
@@ -132,8 +22,8 @@
     {
       "id": "924774ea-e22a-4db2-afdb-e38672f3d9fe",
       "name": "Fam 2.0 @REBIRTHZVPS",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 397,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -149,8 +39,8 @@
     {
       "id": "fee88f75-0a9a-447f-9f2a-1ac47945bff7",
       "name": "Baylife RP",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 1280,
       "max_players": 2040,
       "tags": [
         "Public"
@@ -164,8 +54,8 @@
     {
       "id": "5624b4fb-154f-4631-be1e-e03ac2a7c65c",
       "name": "Grand Roleplay US 1",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 484,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -186,8 +76,8 @@
     {
       "id": "865f3fff-069d-486e-aa4e-077bacf1996d",
       "name": "CIDADE NOBRE",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 1841,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -203,8 +93,8 @@
     {
       "id": "b9983884-1273-4358-94b3-aa47c45ffa7c",
       "name": "DIAMOND CITY RP SÉRIEUX GRANDE FAMILLE",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 637,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -225,9 +115,9 @@
     {
       "id": "745a8db5-dab4-4c0c-b51b-1d2558472636",
       "name": "SlaxRP Romania",
-      "status": "OFFLINE",
-      "online_count": null,
-      "max_players": 1200,
+      "status": "ONLINE",
+      "online_count": 305,
+      "max_players": 1400,
       "tags": [
         "Public",
         "In-Game Voice",
@@ -243,8 +133,8 @@
     {
       "id": "64227ebd-b94a-4ff9-bef4-a268c2e48db4",
       "name": "مقاطعة بوليتو",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 732,
       "max_players": 2048,
       "tags": [
         "Allowlist",
@@ -262,8 +152,8 @@
     {
       "id": "f0ba4653-4e37-4877-b7e1-b628b6a0efd8",
       "name": "DISTRICT 99",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 941,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -280,8 +170,8 @@
     {
       "id": "5d805631-bc73-40d6-98db-4007fff45386",
       "name": "RIA ROLEPLAY NON-WHITELIST",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 196,
       "max_players": 1881,
       "tags": [
         "Public",
@@ -298,8 +188,8 @@
     {
       "id": "28eac4da-94b9-4f28-a302-fda54a52a9fa",
       "name": "CIDADE SANTA",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 1195,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -317,8 +207,8 @@
     {
       "id": "981697dc-ca0a-48e2-8571-1ae46298c7c7",
       "name": "RINA ROLEPLAY",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 335,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -336,8 +226,8 @@
     {
       "id": "8e98e3b4-0ce2-4890-8cc8-2c328a2cdda6",
       "name": "FlashBack FA",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 667,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -353,8 +243,8 @@
     {
       "id": "a36f9ed0-fbac-45c4-a7cf-555edd55066c",
       "name": "مدينة الـ90",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 418,
       "max_players": 2000,
       "tags": [
         "Allowlist",
@@ -374,8 +264,8 @@
     {
       "id": "84b036b5-9c66-4775-aec7-e0b8f274789b",
       "name": "Crimson City",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 139,
       "max_players": 1000,
       "tags": [
         "Allowlist",
@@ -393,8 +283,8 @@
     {
       "id": "89445e95-4ce1-405d-8267-c075adbda53a",
       "name": "UNITY RP V2 #1",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 320,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -411,8 +301,8 @@
     {
       "id": "5e1a0d36-a11b-40ce-9c90-0356297bacc1",
       "name": "CIDADE GRANDE",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 906,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -428,8 +318,8 @@
     {
       "id": "147a35e1-0166-4952-9992-ea5542e405c6",
       "name": "Grave RP",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 520,
       "max_players": 966,
       "tags": [
         "Public",
@@ -445,8 +335,8 @@
     {
       "id": "0e8b5f85-c261-421f-a84b-8ac8301d0d95",
       "name": "Apollo Networks",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 155,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -464,8 +354,8 @@
     {
       "id": "ab537682-6875-4775-be70-da4cf194a8e8",
       "name": "REDSIDE RP V5",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 246,
       "max_players": 1450,
       "tags": [
         "Public",
@@ -486,8 +376,8 @@
     {
       "id": "75f05c60-357e-4d84-8314-b033f1cdb10c",
       "name": "مقاطعة العاذرية",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 381,
       "max_players": 2000,
       "tags": [
         "Public",
@@ -508,9 +398,9 @@
     {
       "id": "72a5f74c-f56a-474f-b2de-fba6cfdb18db",
       "name": "OsloRP",
-      "status": "OFFLINE",
-      "online_count": null,
-      "max_players": 750,
+      "status": "ONLINE",
+      "online_count": 224,
+      "max_players": 800,
       "tags": [
         "Allowlist",
         "In-Game Voice",
@@ -525,8 +415,8 @@
     {
       "id": "44564a60-cbb2-48d9-bc17-3b8e30dcb9d5",
       "name": "Unity RP",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 291,
       "max_players": 966,
       "tags": [
         "Public",
@@ -541,8 +431,8 @@
     {
       "id": "5d51b6bb-2f05-4eb9-a2c0-959c4ac28e5f",
       "name": "Arab Evils RP",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 247,
       "max_players": 600,
       "tags": [
         "Public",
@@ -558,8 +448,8 @@
     {
       "id": "4b67e643-61d4-41b4-972d-3046d0def9f1",
       "name": "FLUXO ROLEPLAY OFICIAL",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 1020,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -574,8 +464,8 @@
     {
       "id": "b6121bb7-c8cd-4937-b917-59a3971bbf07",
       "name": "NUSA V ROLEPLAY INDONESIA",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 76,
       "max_players": 1000,
       "tags": [
         "Public",
@@ -593,8 +483,8 @@
     {
       "id": "843d8a1c-db83-404e-8a55-ada6fd2d2379",
       "name": "XEN ROLEPLAY NON WHITELIST",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 101,
       "max_players": 999,
       "tags": [
         "Public",
@@ -612,8 +502,8 @@
     {
       "id": "a92a083e-14e4-45da-848b-6f7d02b053fd",
       "name": "CORLEONE CITY REMASTERED UPDATE",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 289,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -631,8 +521,8 @@
     {
       "id": "837b6840-7e79-4149-be93-4e37541e10d5",
       "name": "RevolutionRP",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 232,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -653,8 +543,8 @@
     {
       "id": "0559eaea-cc45-403b-b984-206c53818abd",
       "name": "AtlanticRP",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 383,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -669,8 +559,8 @@
     {
       "id": "c851725a-ca63-4802-a8d4-0f42d66808d6",
       "name": "FAZERP BOJÓWKA »WL-OFF« NOWOŚCI𓇻",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 65,
       "max_players": 676,
       "tags": [
         "Public",
@@ -688,8 +578,8 @@
     {
       "id": "21537fac-ff8e-48b7-be97-815c19906e07",
       "name": "CIDADE MARESIA",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 719,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -706,8 +596,8 @@
     {
       "id": "ff5ab7ad-0642-40be-bc95-124a79aab38c",
       "name": "MALTA RP INAUGUROU",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 214,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -722,8 +612,8 @@
     {
       "id": "7225d632-4ba5-42de-bfa7-71084f1c2f06",
       "name": "Fat Duck Gaming",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 100,
       "max_players": 1000,
       "tags": [
         "Public",
@@ -744,8 +634,8 @@
     {
       "id": "5ef84319-2bc9-4bd7-8c37-d369c91beb91",
       "name": "SPAINROL OFICIAL LO QUE QUEDA DE ROL",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 317,
       "max_players": 2025,
       "tags": [
         "Public",
@@ -766,8 +656,8 @@
     {
       "id": "310ee8b6-724f-4612-9471-ba03da7e8ff7",
       "name": "LAC The First Generation",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 115,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -784,8 +674,8 @@
     {
       "id": "2c3cf159-5fcf-4fd8-9d68-e306814105c9",
       "name": "PRO4KINGS ROMANIA",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 78,
       "max_players": 1150,
       "tags": [
         "Public",
@@ -803,9 +693,9 @@
     {
       "id": "9d270bed-f461-4866-b736-a5c323f65ad1",
       "name": "The 305",
-      "status": "OFFLINE",
-      "online_count": null,
-      "max_players": 400,
+      "status": "ONLINE",
+      "online_count": 636,
+      "max_players": 700,
       "tags": [
         "Public",
         "In-Game Voice",
@@ -822,8 +712,8 @@
     {
       "id": "991b823e-7793-4063-a2b0-e2ce55affdf1",
       "name": "Focus Roleplay Balkan NAJBOLJI FPS",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 206,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -841,8 +731,8 @@
     {
       "id": "ce751920-bb54-4549-9a66-88cdbf7109e1",
       "name": "77RP WL:OFF",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 212,
       "max_players": 250,
       "tags": [
         "Public",
@@ -861,8 +751,8 @@
     {
       "id": "add80274-4fae-452b-a280-3a1f5641d56f",
       "name": "시그널ᆞSIGNAL",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 177,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -879,8 +769,8 @@
     {
       "id": "d048f71c-3688-489e-ade0-f21e18702bf5",
       "name": "HighLife Roleplay",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 400,
       "max_players": 400,
       "tags": [
         "Public",
@@ -901,8 +791,8 @@
     {
       "id": "bd2f4219-fd5d-43f2-9362-c8b234d18358",
       "name": "VICEEEE CITY #SEASON 3",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 288,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -923,8 +813,8 @@
     {
       "id": "52fbe343-0f8f-4f33-af44-51e9c103168f",
       "name": "KNG ESTATE",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 244,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -940,9 +830,9 @@
     {
       "id": "02a8e23e-9271-4db0-96e7-2a4a95d337db",
       "name": "New Era Roleplay",
-      "status": "OFFLINE",
-      "online_count": null,
-      "max_players": 300,
+      "status": "ONLINE",
+      "online_count": 38,
+      "max_players": 320,
       "tags": [
         "Allowlist",
         "In-Game Voice"
@@ -956,8 +846,8 @@
     {
       "id": "e9cddd89-5a87-42f8-9d59-8c1594e28bfb",
       "name": "FlashWorld FA",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 268,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -973,8 +863,8 @@
     {
       "id": "1bff23dc-c6cb-42e2-bae7-b6b122153458",
       "name": "UNITY Legacy #1 #NOUVEAU SERVEUR",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 206,
       "max_players": 1000,
       "tags": [
         "Public",
@@ -991,9 +881,9 @@
     {
       "id": "3b71f7a3-6249-4a35-a05b-75a60a45ce91",
       "name": "The Land LA",
-      "status": "OFFLINE",
-      "online_count": null,
-      "max_players": 224,
+      "status": "ONLINE",
+      "online_count": 655,
+      "max_players": 700,
       "tags": [
         "Public",
         "In-Game Voice",
@@ -1013,9 +903,9 @@
     {
       "id": "ab0edb19-386b-4a4c-96d9-afefbb5b2f74",
       "name": "HAOS^ 7ROMANIA REBORN",
-      "status": "OFFLINE",
-      "online_count": null,
-      "max_players": 300,
+      "status": "ONLINE",
+      "online_count": 64,
+      "max_players": 700,
       "tags": [
         "Public",
         "In-Game Voice",
@@ -1035,8 +925,8 @@
     {
       "id": "aa0dea9b-16e4-4ce5-84f2-bd65420abcee",
       "name": "SE5 Revolucija Testni",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 115,
       "max_players": 200,
       "tags": [
         "Allowlist",
@@ -1057,8 +947,8 @@
     {
       "id": "d6baae31-c1d2-40ab-95a0-bc89577f5fee",
       "name": "STRP Europe",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 161,
       "max_players": 750,
       "tags": [
         "Allowlist",
@@ -1077,8 +967,8 @@
     {
       "id": "eb9e3b74-3d70-44c5-801a-30caec2b5a53",
       "name": "FRATWORLD RP FA",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 123,
       "max_players": 1024,
       "tags": [
         "Public",
@@ -1093,8 +983,8 @@
     {
       "id": "2baeda34-aace-4997-bd4c-5ee108440112",
       "name": "WISE FA RP SÉRIEUX PAS D'ARMES PERM",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 192,
       "max_players": 800,
       "tags": [
         "Public",
@@ -1115,8 +1005,8 @@
     {
       "id": "31949378-fd61-4472-972f-7490b75a56f7",
       "name": "HOPE INDONESIA",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 45,
       "max_players": 1000,
       "tags": [
         "Public",
@@ -1132,8 +1022,8 @@
     {
       "id": "445cb81c-8108-44d9-873c-b8d4d687550d",
       "name": "ibizarp.es #INAUGURACIÓN HOY 20-OCT",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 10,
       "max_players": 400,
       "tags": [
         "Public",
@@ -1150,8 +1040,8 @@
     {
       "id": "e88f22ad-47d1-4985-99b9-d47053396019",
       "name": "Balkan Vortex Roleplay",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 113,
       "max_players": 300,
       "tags": [
         "Public",
@@ -1172,8 +1062,8 @@
     {
       "id": "a3638fed-cbb4-4ec1-9b05-1185431689c3",
       "name": "GL1TCH NYC V5 Story-Driven RPFemale S",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 176,
       "max_players": 200,
       "tags": [
         "Allowlist",
@@ -1194,8 +1084,8 @@
     {
       "id": "a01ce8f7-95e5-4236-8fc7-cd851f2c56eb",
       "name": "Libra RP",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 76,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -1216,8 +1106,8 @@
     {
       "id": "949eaf11-0bde-40a5-99c1-ee3caea8ca5e",
       "name": "MyRP.pl",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 109,
       "max_players": 750,
       "tags": [
         "Public",
@@ -1235,8 +1125,8 @@
     {
       "id": "fff74305-8e24-4fde-a638-86537599f09a",
       "name": "FutureIL V7",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 28,
       "max_players": 1024,
       "tags": [
         "Public",
@@ -1257,9 +1147,9 @@
     {
       "id": "db447061-83b3-4778-bfd0-1fe258bf0b9e",
       "name": "The Palms OPEN NOW OCTOBER 31ST!",
-      "status": "OFFLINE",
-      "online_count": null,
-      "max_players": 630,
+      "status": "ONLINE",
+      "online_count": 457,
+      "max_players": 500,
       "tags": [
         "Allowlist",
         "In-Game Voice",
@@ -1276,8 +1166,8 @@
     {
       "id": "82c9edf3-b0ef-489e-8a87-92c95fcb35ea",
       "name": "Legacy Roleplay India Recently Wiped",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 28,
       "max_players": 300,
       "tags": [
         "Public",
@@ -1318,8 +1208,8 @@
     {
       "id": "4cda3b78-b493-49d0-ac72-bb30b4fb806d",
       "name": "꿀벌서버 HoneyBeeᆞ",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 58,
       "max_players": 982,
       "tags": [
         "Public",
@@ -1336,8 +1226,8 @@
     {
       "id": "7a6a3ab5-ddb6-4cd9-a81d-c94f3230285e",
       "name": "Devas City",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 49,
       "max_players": 500,
       "tags": [
         "Allowlist",
@@ -1355,8 +1245,8 @@
     {
       "id": "c1936bff-a925-4ca7-bde1-5dceacd64b4b",
       "name": "ORG RP INAUGURACIÓN AHORA #TOP",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 330,
       "max_players": 2000,
       "tags": [
         "Public",
@@ -1375,8 +1265,8 @@
     {
       "id": "7243ebb7-0e79-4c91-9024-9c3ae8422242",
       "name": "Sunset Stories 18 Spooky Season",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 346,
       "max_players": 400,
       "tags": [
         "Public",
@@ -1394,8 +1284,8 @@
     {
       "id": "658a8597-deed-4a0e-8f9f-9b69111fe993",
       "name": "Game Zone Israel",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 44,
       "max_players": 600,
       "tags": [
         "Public",
@@ -1413,8 +1303,8 @@
     {
       "id": "6a5c6467-e131-4bb7-ac17-230a46a35315",
       "name": "Switch Roleplay",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 23,
       "max_players": 200,
       "tags": [
         "Public",
@@ -1429,8 +1319,8 @@
     {
       "id": "f07f3a02-8807-40bd-97bd-fe87b24e3379",
       "name": "California Roleplay",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 330,
       "max_players": 350,
       "tags": [
         "Public",
@@ -1449,9 +1339,9 @@
     {
       "id": "6c7224d0-0097-48a8-938b-61f07da2471d",
       "name": "City Of Love",
-      "status": "OFFLINE",
-      "online_count": null,
-      "max_players": 400,
+      "status": "ONLINE",
+      "online_count": 373,
+      "max_players": 450,
       "tags": [
         "Public",
         "In-Game Voice",
@@ -1470,8 +1360,8 @@
     {
       "id": "5f8c8ac1-ba3b-45d3-8bf9-7a8952e6a1a0",
       "name": "LIBERTY 99",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 290,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -1488,8 +1378,8 @@
     {
       "id": "6886359f-1062-4321-8c1f-2b795b0df314",
       "name": "Rolas Academy ESP",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 115,
       "max_players": 1000,
       "tags": [
         "Public",
@@ -1508,8 +1398,8 @@
     {
       "id": "76e0ca7d-f959-4a69-8d1c-217963c4c06f",
       "name": "DayBreak RP",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 35,
       "max_players": 300,
       "tags": [
         "Allowlist",
@@ -1529,8 +1419,8 @@
     {
       "id": "3aa0987b-abaa-4c9c-a6eb-c637d678bdcb",
       "name": "South Beach V2",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 255,
       "max_players": 500,
       "tags": [
         "Public",
@@ -1550,8 +1440,8 @@
     {
       "id": "086ce54e-349d-4e8c-9a07-a0de2506f395",
       "name": "HydraSync Roleplay",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 1,
       "max_players": 175,
       "tags": [
         "Allowlist",
@@ -1567,8 +1457,8 @@
     {
       "id": "7ec1baf5-2f3d-405a-aecc-989661d20884",
       "name": "SpainCity Evolution HALLOWEEN EDITION",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 160,
       "max_players": 350,
       "tags": [
         "Public",
@@ -1587,8 +1477,8 @@
     {
       "id": "e9b070d6-fda8-40df-a54c-669fc878120b",
       "name": "EchoRP",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 246,
       "max_players": 250,
       "tags": [
         "Allowlist",
@@ -1606,9 +1496,9 @@
     {
       "id": "a523b101-2fc2-4d2b-b709-80594ac7c2b6",
       "name": "The Raq",
-      "status": "OFFLINE",
-      "online_count": null,
-      "max_players": 400,
+      "status": "ONLINE",
+      "online_count": 57,
+      "max_players": 350,
       "tags": [
         "Public",
         "In-Game Voice",
@@ -1627,8 +1517,8 @@
     {
       "id": "e7b96839-cd9b-4363-a6a9-30dd9f900e0c",
       "name": "CityLife RP 3.0 FRESH WIPE",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 292,
       "max_players": 300,
       "tags": [
         "Public",
@@ -1649,8 +1539,8 @@
     {
       "id": "e566115b-33fe-4e86-a5e3-7e5375f37471",
       "name": "Legacy RP Whitelisted",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 27,
       "max_players": 325,
       "tags": [
         "Public",
@@ -1667,8 +1557,8 @@
     {
       "id": "97959799-96a4-45b6-8399-13296a219971",
       "name": "ResetRP",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 137,
       "max_players": 220,
       "tags": [
         "Allowlist",
@@ -1684,8 +1574,8 @@
     {
       "id": "e1014164-7444-481f-912c-711bd969046a",
       "name": "Trappin Beginner Friendly",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 168,
       "max_players": 300,
       "tags": [
         "Public",
@@ -1704,8 +1594,8 @@
     {
       "id": "e026c37e-e69c-4ef4-ad3d-ddc79068c81e",
       "name": "Hydrate",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 18,
       "max_players": 300,
       "tags": [
         "Public",
@@ -1724,8 +1614,8 @@
     {
       "id": "d3aa5e89-b16e-4572-ab46-74161d507975",
       "name": "Sunshine State RP",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 8,
       "max_players": 128,
       "tags": [
         "Public",
@@ -1746,8 +1636,8 @@
     {
       "id": "4e50b426-aa1e-4fc7-807f-c1cce344b1fd",
       "name": "Miami Stories",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 274,
       "max_players": 350,
       "tags": [
         "Public",
@@ -1767,8 +1657,8 @@
     {
       "id": "db9bff99-bff3-4924-a213-609f2dc4a707",
       "name": "ROYAL",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 69,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -1784,8 +1674,8 @@
     {
       "id": "d3f70af1-1057-492e-ade7-3b8818c806ee",
       "name": "ReuX FiveM 2.2 HALLOWEEN",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 5,
       "max_players": 200,
       "tags": [
         "Allowlist",
@@ -1801,8 +1691,8 @@
     {
       "id": "0da3541c-c376-4095-a3b5-27172612fc7f",
       "name": "Optic",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 29,
       "max_players": 128,
       "tags": [
         "Allowlist",
@@ -1820,8 +1710,8 @@
     {
       "id": "13959e10-d435-4745-bf38-d11490e13b0a",
       "name": "BadlandsRP",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 270,
       "max_players": 300,
       "tags": [
         "Public",
@@ -1839,8 +1729,8 @@
     {
       "id": "6babd888-c2c7-4fe1-9801-dc86780cb5c2",
       "name": "Summit RP",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 150,
       "max_players": 200,
       "tags": [
         "Public",
@@ -1861,8 +1751,8 @@
     {
       "id": "cd7f0d97-86e9-4a95-9e6c-cddfad773f6b",
       "name": "Windy Shooting & Scenes",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 76,
       "max_players": 125,
       "tags": [
         "Public",
@@ -1883,8 +1773,8 @@
     {
       "id": "3346b6d7-cd57-4e29-855b-7368cf006957",
       "name": "Phatz RP",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 25,
       "max_players": 150,
       "tags": [
         "Allowlist",
@@ -1902,8 +1792,8 @@
     {
       "id": "53a21934-6a11-451a-8b5e-dc40fddf5523",
       "name": "Headliner RP",
-      "status": "OFFLINE",
-      "online_count": null,
+      "status": "ONLINE",
+      "online_count": 106,
       "max_players": 300,
       "tags": [
         "Allowlist",
@@ -1912,6 +1802,124 @@
       "description": "General allowlist FiveM roleplay server. Built on Qbox. Features: police, EMS, economy, businesses, heists, racing.",
       "connect_url": "https://cfx.re/join/m4zm5v7",
       "discord_url": "https://discord.gg/headlinerrp",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "7589eb38-c94f-4bef-bb19-e1d280f03dac",
+      "name": "Windy City",
+      "status": "ONLINE",
+      "online_count": 267,
+      "max_players": 300,
+      "tags": [
+        "Public",
+        "In-Game Voice",
+        "serious",
+        "chicago",
+        "windy city",
+        "streamers"
+      ],
+      "description": "Serious public FiveM roleplay server. Built on ESX. Features: police, EMS, economy, businesses, drugs, racing.",
+      "connect_url": "https://cfx.re/join/bojxdl",
+      "discord_url": "https://discord.gg/windycityrp",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "7583a562-7b08-4160-889a-44bfd851cdcf",
+      "name": "The Springs",
+      "status": "ONLINE",
+      "online_count": 227,
+      "max_players": 425,
+      "tags": [
+        "Allowlist",
+        "In-Game Voice",
+        "esx legacy"
+      ],
+      "description": "General allowlist FiveM roleplay server. Built on ESX. Features: police, EMS, economy, businesses, drugs, racing.",
+      "connect_url": "https://cfx.re/join/zjj4eq5",
+      "discord_url": "https://discord.gg/TheSprings",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "705219f6-4692-41ee-b49f-67707d7d007c",
+      "name": "The Sections Roleplay",
+      "status": "ONLINE",
+      "online_count": 170,
+      "max_players": 450,
+      "tags": [
+        "Allowlist",
+        "In-Game Voice",
+        "gangs",
+        "police",
+        "friendly",
+        "semi serious",
+        "combat",
+        "seriousrp"
+      ],
+      "description": "Semi-serious allowlist FiveM roleplay server. Built on ESX. Features: police, EMS, gangs, economy, jobs, businesses.",
+      "connect_url": "https://cfx.re/join/89z3y3",
+      "discord_url": "https://discord.gg/thesectionsroleplay",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "2a7d2b69-dc9d-464b-8909-ae703ffa90f8",
+      "name": "The Towns » 18",
+      "status": "ONLINE",
+      "online_count": 139,
+      "max_players": 225,
+      "tags": [
+        "Allowlist",
+        "In-Game Voice",
+        "usa",
+        "seriousrp",
+        "custom",
+        "drugs",
+        "gangs",
+        "ems"
+      ],
+      "description": "Serious allowlist FiveM roleplay server. Built on Qbox. Features: police, EMS, gangs, mafia, economy, jobs.",
+      "connect_url": "https://cfx.re/join/rxb9x7",
+      "discord_url": "https://discord.gg/TheTowns",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "9d25e348-ce6d-430e-8c10-2d1146c3e837",
+      "name": "The Pines Roleplay",
+      "status": "ONLINE",
+      "online_count": 132,
+      "max_players": 150,
+      "tags": [
+        "Allowlist",
+        "In-Game Voice",
+        "qbox",
+        "custom ui"
+      ],
+      "description": "General allowlist FiveM roleplay server. Built on Qbox. Features: police, EMS, gangs, economy, drugs, racing.",
+      "connect_url": "https://cfx.re/join/rmmjv7p",
+      "discord_url": "https://discord.gg/thepines",
+      "is_featured": false,
+      "logo_url": null
+    },
+    {
+      "id": "81b39b50-a8f9-471b-8e38-8568537d0872",
+      "name": "IMPERO 14",
+      "status": "ONLINE",
+      "online_count": 294,
+      "max_players": 2048,
+      "tags": [
+        "Allowlist",
+        "In-Game Voice",
+        "impero",
+        "ita",
+        "italia"
+      ],
+      "description": "General allowlist FiveM roleplay server (Italian). Built on Qbox. Features: police, EMS, economy, businesses, drugs, racing.",
+      "connect_url": "https://cfx.re/join/3vk49z",
+      "discord_url": "https://discord.gg/impero",
       "is_featured": false,
       "logo_url": null
     }
