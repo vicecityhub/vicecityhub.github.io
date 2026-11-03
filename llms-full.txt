@@ -1,6 +1,6 @@
 # Vice City Hub — full guide for AI agents (v12.0.0)
 
-Generated 2026-11-02T14:34:56.335Z. Live data beats this snapshot: call the API for anything time-sensitive.
+Generated 2026-11-03T00:23:27.709Z. Live data beats this snapshot: call the API for anything time-sensitive.
 
 ## What this site is
 
@@ -549,43 +549,37 @@ Catalog: GET https://lpglkglhjdqnktybksth.supabase.co/functions/v1/agent-premium
 - **The Pines Roleplay** [ONLINE] — General allowlist FiveM roleplay server. Built on Qbox. Features: police, EMS, gangs, economy, drugs, racing. — connect: https://cfx.re/join/rmmjv7p
 - **IMPERO 14** [ONLINE] — General allowlist FiveM roleplay server (Italian). Built on Qbox. Features: police, EMS, economy, businesses, drugs, racing. — connect: https://cfx.re/join/3vk49z
 
-## Latest news (10)
+## Latest news (14)
 
-### GTA VI-Themed Beer Labels Clear US Approval - Pißwasser, Patriot and No Mames Vice City
-- Category: Community · Stars: 2/5 · Published: 2026-10-29T18:45:54.035178+00:00
-- Page: https://vicecityhub.github.io/vicecityhub/n/4407-gta-vi-themed-beer-labels-clear-us-approval-pi-wasser-patriot-and-no-m/ · Source: https://vgtimes.com/games/gta-6/news/
+### British Millionaire Says GTA 6 Could Save Players $5,000 by Replacing Nights Out
+- Category: Community · Stars: 2/5 · Published: 2026-11-02T14:41:55.427287+00:00
+- Page: https://vicecityhub.github.io/vicecityhub/n/4411-british-millionaire-says-gta-6-could-save-players-5-000-by-replacing-n/ · Source: https://vgtimes.com/gaming-news/173111-millionaire-says-gta-6-could-save-players-5000-by-replacing-nights-out.html
 
-Tripping Animals Brewing's GTA VI-themed beer labels, Pißwasser, Patriot and No Mames Vice City, have cleared approval from the US Alcohol and Tobacco Tax and Trade Bureau. The brewery has not said whether the beers will reach shelves.
+Social media creator and British millionaire Mark Tilbury argues in a viral video posted October 31 that GTA 6 could pay for itself if players stay home instead of going out. He estimates what each hour in Vice City costs using a display copy of the game he picked up in a store, and compares it with what a typical night out costs. It's a light-hearted take rather than financial advice. Still, with the Standard Edition reportedly priced at $79.99, the math isn't crazy if the game keeps you busy for weeks.
 
-### Rockstar Lets Journalists Watch an Unscripted 90-Minute GTA 6 Session - Map Said to Match GTA 4, GTA 5 and RDR2 Combined
-- Category: Official · Stars: 5/5 · Published: 2026-10-29T18:45:54.035178+00:00
-- Page: https://vicecityhub.github.io/vicecityhub/n/4398-rockstar-lets-journalists-watch-an-unscripted-90-minute-gta-6-session/ · Source: https://vgtimes.com/games/gta-6/news/
+### Edge Magazine Gets 12 New GTA 6 Screenshots and a 16-Page Cover Story From Rockstar North
+- Category: Official · Stars: 5/5 · Published: 2026-11-02T14:41:55.427287+00:00
+- Page: https://vicecityhub.github.io/vicecityhub/n/4408-edge-magazine-gets-12-new-gta-6-screenshots-and-a-16-page-cover-story/ · Source: https://khelnow.com/gaming/edge-magazine-reveals-gta-6-new-screenshots-huge-gameplay-features-202610
 
-Rockstar invited journalists into its studio for an unscripted session in which the head of development played GTA 6 for about 90 minutes. Reports from the session say the map is roughly the size of GTA 4, GTA 5 and Red Dead Redemption 2 combined, and that police track players based on their descriptions, so a quick outfit change matters more than it used to. These are accounts from the people in the room; Rockstar has not published its own breakdown. Launch is November 19 on PS5 and Xbox Series X/S.
+Rockstar gave Edge magazine a batch of 12 new GTA 6 screenshots on October 29, along with a 16-page cover feature built on a visit to Rockstar North in Edinburgh. The images show a much wider Leonida than the trailers did. What the screenshots show, according to coverage of the issue: Vice City's waterfront, skyline and neon-lit streets; a rural Leonida town with low buildings and a motorcycle gang riding through; trailer parks and industrial edges on the outskirts; the Grassrivers swamp, where two armed men ride an airboat with alligators around; an underwater passage with a hammerhead shark over coral; and several shots of Jason and Lucia in new outfits, plus a police officer that fans are already theorizing about. Rockstar's Rob Nelson told Edge the game is "ready," as reported by Game Rant. That supports the November 19 date, though it isn't a quality guarantee. Rockstar also declined to say whether Jason and Lucia can get married. The coverage describes a Leonida nearly as large as the playable areas of GTA 4, GTA 5 and Red Dead Redemption 2 combined. The original Edge issue is a print magazine, so everything here is secondhand reporting until the issue itself circulates.
 
-### Gesaffelstein and Justice Team Up on a GTA 6 Track - A 50-Track Soundtrack Is Coming in December
-- Category: Official · Stars: 4/5 · Published: 2026-10-29T18:45:54.035178+00:00
-- Page: https://vicecityhub.github.io/vicecityhub/n/4399-gesaffelstein-and-justice-team-up-on-a-gta-6-track-a-50-track-soundtra/ · Source: https://vgtimes.com/games/gta-6/news/
+### What Edge Says Is New in GTA 6: Smarter NPCs, K-9 Cops, Scooter Bros Delivery and a WAINK App
+- Category: Official · Stars: 4/5 · Published: 2026-11-02T14:41:55.427287+00:00
+- Page: https://vicecityhub.github.io/vicecityhub/n/4409-what-edge-says-is-new-in-gta-6-smarter-npcs-k-9-cops-scooter-bros-deli/ · Source: https://khelnow.com/gaming/edge-magazine-reveals-gta-6-new-screenshots-huge-gameplay-features-202610
 
-Gesaffelstein and Justice collaborated on a GTA 6 track that went live at midnight local time on October 29. Pre-orders for a 50-track soundtrack are due in December. Justice composed the game's original score and also wrote the single that debuted in the launch trailer.
+According to coverage of Edge's 16-page special, GTA 6's systems go deeper than the trailers suggest. This list comes from Khel Now's summary of the issue, so treat the specifics as secondhand. World: buses and trains are fully functional, days and nights last longer to feel closer to real time, and separate teams built the ads, TV shows, radio stations, political campaigns, pedestrians and fictional brands. NPCs and police: pedestrians react based on location, personality and what they witness, so carrying a shotgun down the street alarms them more than slinging a weapon over your shoulder. Police can deploy K-9 units, track suspects by clothing and known accomplices, and handle pursuits more realistically. Robbery victims may resist, shoppers may step in, and armed drivers can fight back against carjackers. Vehicles and items: a Scooter Bros service delivers your personal vehicle to your location, cars can carry tracking devices and have improved fuel management, and the in-game WAINK app helps locate valuable vehicles that criminal buyers want. Coffee boosts stamina and protein shakes temporarily increase health. The summary also mentions a Criminal Profile system, more enterable interiors and deeper Jason and Lucia relationship mechanics. Rockstar has not published its own breakdown, and the summary contains no direct developer quotes.
 
-### Insider: Rockstar Is Sending GTA 6 Review Codes, Embargo Lifts November 18
-- Category: Rumors · Stars: 4/5 · Published: 2026-10-29T18:45:54.035178+00:00
-- Page: https://vicecityhub.github.io/vicecityhub/n/4400-insider-rockstar-is-sending-gta-6-review-codes-embargo-lifts-november/ · Source: https://vgtimes.com/games/gta-6/news/
+### GTA 6 Is 17 Days Out: What's Confirmed, What's Rumored and What Rockstar Disputed
+- Category: Community · Stars: 4/5 · Published: 2026-11-02T14:41:55.427287+00:00
+- Page: https://vicecityhub.github.io/vicecityhub/n/4410-gta-6-is-17-days-out-what-s-confirmed-what-s-rumored-and-what-rockstar/ · Source: https://tech-insider.org/gta-6-confirmed-vs-rumor-scorecard-17-days-out-2026/
 
-Insider NateTheHate2 reports that Rockstar has started sending out GTA 6 review codes and that the review embargo lifts on November 18, a day before launch. Rockstar has not confirmed the date, so treat it as an insider report.
+With launch on November 19, a Tech Insider roundup published November 2 sorts the facts from the rumors. Confirmed per Rockstar, Take-Two and store pages: GTA 6 launches November 19, 2026 on PS5 and Xbox Series X/S, with no PS4 or Xbox One version. Digital preload starts at local midnight on November 12, seven days before launch. The Vintage Vice City Pack is the pre-order bonus for digital buyers who purchase before November 20. Prices reported in a November 1 roundup are $79.99 for the Standard Edition and $99.99 for the Ultimate Edition (£69.99 and £89.99 in the UK). Reported but unconfirmed: the 210 GB PS5 install size from store data, physical copies being a box with a download code rather than a disc, and the November 18 review embargo. Rumors and denials: GamesBeat reported a PC version targeting Q1 2027, citing four anonymous sources, and Rockstar has not commented. A single insider claimed a native PS5 version of Red Dead Redemption 2. Xbox denied the exclusive cloud-streaming report on October 7. Bloomberg reported a budget above $1.5 billion on October 14, which Rockstar disputed without publishing its own figure.
 
 ### GTA 6 Reportedly Takes Up 210 GB on PS5, According to PlayStation Network Database Tracker
 - Category: Rumors · Stars: 4/5 · Published: 2026-10-29T18:45:54.035178+00:00
 - Page: https://vicecityhub.github.io/vicecityhub/n/4401-gta-6-reportedly-takes-up-210-gb-on-ps5-according-to-playstation-netwo/ · Source: https://vgtimes.com/games/gta-6/news/
 
 A PlayStation Game Size tracker account on X reported that GTA 6 takes up 210 GB on PS5, a figure it says it spotted in the PlayStation Network database. Rockstar and Sony have not confirmed the number, and install sizes can change before launch. Clear some space.
-
-### South Park Shows GTA 6 Footage in a New Episode - Rockstar Credited at the End
-- Category: Community · Stars: 3/5 · Published: 2026-10-29T18:45:54.035178+00:00
-- Page: https://vicecityhub.github.io/vicecityhub/n/4402-south-park-shows-gta-6-footage-in-a-new-episode-rockstar-credited-at-t/ · Source: https://vgtimes.com/games/gta-6/news/
-
-A new South Park episode included GTA 6 footage, with a scene of Jason hitting a passerby with dog poop. Rockstar is credited at the end of the episode, which points to an authorized crossover rather than a leak.
 
 ### Circana Analyst: Publishers Overestimate How Much GTA 6 Will Dominate Player Attention
 - Category: Community · Stars: 3/5 · Published: 2026-10-29T18:45:54.035178+00:00
@@ -610,3 +604,33 @@ Virgin Media Ireland is looking for a winner to play GTA 6 for EUR 100 per hour,
 - Page: https://vicecityhub.github.io/vicecityhub/n/4406-burger-shot-and-cluckin-bell-signs-show-up-at-miami-s-kaseya-center/ · Source: https://vgtimes.com/games/gta-6/news/
 
 Burger Shot and Cluckin' Bell signage now appears at Miami's Kaseya Center as part of Rockstar's real-world marketing. GTA 6 launches November 19 on PS5 and Xbox Series X/S.
+
+### Gesaffelstein and Justice Team Up on a GTA 6 Track - A 50-Track Soundtrack Is Coming in December
+- Category: Official · Stars: 4/5 · Published: 2026-10-29T18:45:54.035178+00:00
+- Page: https://vicecityhub.github.io/vicecityhub/n/4399-gesaffelstein-and-justice-team-up-on-a-gta-6-track-a-50-track-soundtra/ · Source: https://www.rockstargames.com/newswire/article/39ak8a12395591/grand-theft-auto-vi-original-score-by-justice
+
+Gesaffelstein and Justice teamed up on a GTA 6 track that went live at midnight local time on October 29. Pre-orders for a 50-track soundtrack are due in December, according to reports around the release. On the same day Rockstar published a Newswire post titled "Grand Theft Auto VI: Original Score by Justice." It confirms the original score was composed by the French duo Justice, Gaspard Augé and Xavier de Rosnay, who are Grammy winners. Justice also wrote the single that debuted in the October 15 launch trailer, "Flower in a Hurricane," featuring Tame Impala, SZA and King Gizzard & The Lizard Wizard. It's a clear sign of how the game will sound: licensed songs on the radio, as announced earlier this month with six stations, plus an original electronic score built by artists Rockstar picked personally. The game launches November 19 on PS5 and Xbox Series X/S.
+
+### Rockstar Lets Journalists Watch an Unscripted 90-Minute GTA 6 Session - Map Said to Match GTA 4, GTA 5 and RDR2 Combined
+- Category: Official · Stars: 5/5 · Published: 2026-10-29T18:45:54.035178+00:00
+- Page: https://vicecityhub.github.io/vicecityhub/n/4398-rockstar-lets-journalists-watch-an-unscripted-90-minute-gta-6-session/ · Source: https://vgtimes.com/games/gta-6/news/
+
+Rockstar invited journalists into its studio for an unscripted session in which the head of development played GTA 6 for about 90 minutes. Reports from the session say the map is roughly the size of GTA 4, GTA 5 and Red Dead Redemption 2 combined, and that police track players based on their descriptions, so a quick outfit change matters more than it used to. These are accounts from the people in the room; Rockstar has not published its own breakdown. Launch is November 19 on PS5 and Xbox Series X/S.
+
+### South Park Shows GTA 6 Footage in a New Episode - Rockstar Credited at the End
+- Category: Community · Stars: 3/5 · Published: 2026-10-29T18:45:54.035178+00:00
+- Page: https://vicecityhub.github.io/vicecityhub/n/4402-south-park-shows-gta-6-footage-in-a-new-episode-rockstar-credited-at-t/ · Source: https://vgtimes.com/games/gta-6/news/
+
+A new South Park episode, "Guinea Pig on a Stick," aired October 28 on Comedy Central and included GTA 6 footage that hadn't been shown before. In the scene, Jason hits a passerby with dog poop. Rockstar Games is thanked in the end credits, which is the main reason fans treat the footage as authorized rather than leaked. Fans noted it is the first new raw gameplay footage since August, aside from the launch trailer. It is an odd but effective marketing move: a mainstream adult cartoon showing your game's physics and humor, with the studio's name in the credits. Rockstar has not commented on the crossover.
+
+### Insider: Rockstar Is Sending GTA 6 Review Codes, Embargo Lifts November 18
+- Category: Rumors · Stars: 4/5 · Published: 2026-10-29T18:45:54.035178+00:00
+- Page: https://vicecityhub.github.io/vicecityhub/n/4400-insider-rockstar-is-sending-gta-6-review-codes-embargo-lifts-november/ · Source: https://vgtimes.com/games/gta-6/news/
+
+Insider NateTheHate reported on X that Rockstar has started sending out GTA 6 review codes, and that the review embargo lifts on November 18. Insider Gaming says it independently verified the November 18 date in a report published on October 26. The reported date falls six days after digital preloading begins on November 12 and one day before the November 19 launch on PS5 and Xbox Series X/S. No time of day or region breakdown has been reported, and it is not known which outlets have codes or whether access is staggered. Rockstar has not confirmed either detail. Treat November 18 as a reported date, not an official announcement, until Rockstar publishes its own review information.
+
+### GTA VI-Themed Beer Labels Clear US Approval - Pißwasser, Patriot and No Mames Vice City
+- Category: Community · Stars: 2/5 · Published: 2026-10-29T18:45:54.035178+00:00
+- Page: https://vicecityhub.github.io/vicecityhub/n/4407-gta-vi-themed-beer-labels-clear-us-approval-pi-wasser-patriot-and-no-m/ · Source: https://vgtimes.com/games/gta-6/news/
+
+Tripping Animals Brewing's GTA VI-themed beer labels, Pißwasser, Patriot and No Mames Vice City, have cleared approval from the US Alcohol and Tobacco Tax and Trade Bureau. The brewery has not said whether the beers will reach shelves.
