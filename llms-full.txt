@@ -1,6 +1,6 @@
 # Vice City Hub — full guide for AI agents (v12.0.0)
 
-Generated 2026-11-05T13:52:54.179Z. Live data beats this snapshot: call the API for anything time-sensitive.
+Generated 2026-11-05T19:53:23.500Z. Live data beats this snapshot: call the API for anything time-sensitive.
 
 ## What this site is
 
@@ -549,7 +549,61 @@ Catalog: GET https://lpglkglhjdqnktybksth.supabase.co/functions/v1/agent-premium
 - **The Pines Roleplay** [ONLINE] — General allowlist FiveM roleplay server. Built on Qbox. Features: police, EMS, gangs, economy, drugs, racing. — connect: https://cfx.re/join/rmmjv7p
 - **IMPERO 14** [ONLINE] — General allowlist FiveM roleplay server (Italian). Built on Qbox. Features: police, EMS, economy, businesses, drugs, racing. — connect: https://cfx.re/join/3vk49z
 
-## Latest news (14)
+## Latest news (12)
+
+### Rumor: Travis Scott x Nike GTA 6 Sneakers Listed for Launch Day in Three Colorways
+- Category: Rumors · Stars: 2/5 · Published: 2026-11-05T19:50:02.654322+00:00
+- Page: https://vicecityhub.github.io/vicecityhub/n/4420-rumor-travis-scott-x-nike-gta-6-sneakers-listed-for-launch-day-in-thre/ · Source: https://vgtimes.com/gaming-news/173168-nike-x-cactus-jack-x-rockstar-gta-6-sneakers-reportedly-set-for-november.html
+
+Travis Scott sneakers tied to GTA 6 have reportedly appeared on a store's release calendar for the same day as the game, in three colorways with wanted-star details. No one has officially confirmed a Nike, Cactus Jack and Rockstar collaboration, so this is an unconfirmed listing.
+
+### Sony Ships PS5 Update 26.07 Ahead of GTA 6 - and a Rumor Says the Game Needs It
+- Category: Rumors · Stars: 3/5 · Published: 2026-11-05T19:50:02.654322+00:00
+- Page: https://vicecityhub.github.io/vicecityhub/n/4417-sony-ships-ps5-update-26-07-ahead-of-gta-6-and-a-rumor-says-the-game-n/ · Source: https://vgtimes.com/gaming-news/173190-rumor-ps5-firmware-version-required-to-play-gta-6-may-have-been-revealed.html
+
+Sony released PS5 system update 26.07 (14.22.00.00) with security fixes, though it has not said exactly what it fixes. A researcher reported running his own code on the previous firmware within hours of that firmware's release. Separately, the PlayStation Game Size account on X claims GTA 6 may require system software 14.22.00.00 or later. That claim is a rumor: Rockstar and Sony have not confirmed a firmware requirement. Updating your console before pre-load is a sensible move either way.
+
+### A PS5 Pro Label for GTA 6 Appeared on PlayStation's French Site - But It May Be Fake
+- Category: Rumors · Stars: 3/5 · Published: 2026-11-05T19:50:02.654322+00:00
+- Page: https://vicecityhub.github.io/vicecityhub/n/4418-a-ps5-pro-label-for-gta-6-appeared-on-playstation-s-french-site-but-it/ · Source: https://vgtimes.com/gaming-news/173474-playstation-reportedly-revealed-gta-6-ps5-pro-features-early-but-users-suspect-listing-is-fake.html
+
+A PS5 Pro support label for GTA 6, mentioning PSSR and enhanced ray tracing, reportedly appeared on PlayStation's French website. Neither Rockstar nor Sony has confirmed it, and users suspect the listing is fake. Treat it as an unverified sighting until an official PS5 Pro statement arrives.
+
+### UK Police Make a GTA-Style Wanted-Level Video About a Driver Who Will Miss GTA 6 in Prison
+- Category: Community · Stars: 2/5 · Published: 2026-11-05T19:50:02.654322+00:00
+- Page: https://vicecityhub.github.io/vicecityhub/n/4419-uk-police-make-a-gta-style-wanted-level-video-about-a-driver-who-will/ · Source: https://vgtimes.com/gaming-news/173445-derbyshire-police-mock-driver-who-will-miss-gta-6s-launch-in-prison.html
+
+Derbyshire Police edited a chase video in the style of GTA, complete with a wanted level and HUD. The driver was jailed for dangerous and drug driving, which means he will miss GTA 6's launch. Viewers spotted one mistake in the video.
+
+### Rockstar Moves GTA 6 Pre-Load Up to November 10 - 212 GB Needed on PS5, Midnight Local Launch Everywhere
+- Category: Official · Stars: 5/5 · Published: 2026-11-05T19:50:02.654322+00:00
+- Page: https://vicecityhub.github.io/vicecityhub/n/4412-rockstar-moves-gta-6-pre-load-up-to-november-10-212-gb-needed-on-ps5-m/ · Source: https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10
+
+Rockstar announced on November 3 that pre-loading for GTA 6 begins on November 10, earlier than the November 12 date that was previously reported. The Newswire post says the game is only a few weeks away and that there is still time to pre-order. On PS5, pre-loading starts Tuesday, November 10 at midnight local time and is for digital pre-orders, according to the PlayStation Blog announcement as summarized by Vice. PS5 owners need 212 GB of free space. VGTimes reports that pre-loading on Xbox Series X|S also begins globally on November 10, though the Xbox size was not confirmed in the material I reviewed. Pre-loading does not give early access. The game unlocks at midnight local time on November 19 in each region, so players in New Zealand get in first. Vice's conversion table for that moment: 3:00 AM Pacific, 6:00 AM Eastern, 11:00 AM UK and 12:00 PM Central Europe on November 18, 8:00 PM in Japan and 10:00 PM in Sydney on November 18. Nothing was reported about a Day One patch. Practical advice: clear space now, since 212 GB is a lot to find on a nearly full SSD, and start downloading on November 10 rather than at midnight on launch night.
+
+### Sensor Tower Estimates GTA 6 Pre-Orders at 7.7 Million Copies and Over $750 Million
+- Category: Community · Stars: 4/5 · Published: 2026-11-05T19:50:02.654322+00:00
+- Page: https://vicecityhub.github.io/vicecityhub/n/4413-sensor-tower-estimates-gta-6-pre-orders-at-7-7-million-copies-and-over/ · Source: https://vgtimes.com/gaming-news/173490-gta-6-has-already-generated-over-750-million-in-pre-order-revenue-with-77-million-copies-pre-ordered-analysts-estimate.html
+
+Sensor Tower estimates GTA 6 has about 7.71 million pre-orders and more than $750 million in pre-order revenue. The platform split is about 5.74 million on PS5, roughly $559 million or 74% of the total, and about 1.97 million on Xbox Series X/S, roughly $192 million. Since October 19, estimated pre-order revenue rose by about $100 million, from $630 million, and pre-orders grew by about 1.3 million. If that trend continues, the report says revenue could reach $1 billion before launch. The only benchmark in the article is a Newzoo projection that GTA 6 could earn up to $5.2 billion in its first week on sale. Rockstar and Take-Two have not confirmed any of these figures. They are analyst estimates with no published methodology, and the $1 billion number is a projection, not a result.
+
+### Rockstar's Support Rules Say GTA 6 Spoiler Videos Could Be Removed Even After Launch
+- Category: Official · Stars: 3/5 · Published: 2026-11-05T19:50:02.654322+00:00
+- Page: https://vicecityhub.github.io/vicecityhub/n/4414-rockstar-s-support-rules-say-gta-6-spoiler-videos-could-be-removed-eve/ · Source: https://vgtimes.com/gaming-news/173458-rockstar-could-crack-down-on-gta-6-spoilers-even-after-launch.html
+
+According to Rockstar's official support site guidelines, as summarized by VGTimes, the company may remove videos that show the ending, standalone cutscenes or other plot-revealing content. That means spoiler-heavy uploads can get taken down even after GTA 6 is out on November 19. If you make gameplay videos, check Rockstar's content guidelines before launch. Streams and normal gameplay are one thing; uploading cutscenes or the ending is where takedown risk starts.
+
+### Take-Two CEO Brushes Off GTA 6 Dependence Fears at WSJ Tech
+- Category: Community · Stars: 3/5 · Published: 2026-11-05T19:50:02.654322+00:00
+- Page: https://vicecityhub.github.io/vicecityhub/n/4415-take-two-ceo-brushes-off-gta-6-dependence-fears-at-wsj-tech/ · Source: https://vgtimes.com/gaming-news/173569-take-two-ceo-pushes-back-on-gta-6-dependence-fears-with-15-franchise-figure.html
+
+At WSJ Tech in Napa Valley on November 4, Take-Two CEO Strauss Zelnick dismissed concerns that the company leans too heavily on GTA 6, pointing to its broader portfolio of franchises. The interviewer noted that Take-Two shares were more than 20% below their record high. It is a CEO answering an investor-style question, not a financial forecast. Take-Two has not published new GTA 6 sales numbers.
+
+### GTA 6 Ads Pop Up in Barcelona, Edinburgh, Melbourne, Tokyo and Sao Paulo
+- Category: Community · Stars: 2/5 · Published: 2026-11-05T19:50:02.654322+00:00
+- Page: https://vicecityhub.github.io/vicecityhub/n/4416-gta-6-ads-pop-up-in-barcelona-edinburgh-melbourne-tokyo-and-sao-paulo/ · Source: https://vgtimes.com/gaming-news/173324-gta-vi-ads-appear-across-multiple-continents-as-rockstar-pushes-preorders.html
+
+Outdoor ads for GTA 6 have appeared in Barcelona, Edinburgh, Melbourne, Tokyo and Sao Paulo, according to VGTimes. The campaign promotes the Vintage Vice City Pack, described as the last pre-order bonus before the November 19 launch on PS5 and Xbox Series X/S. The push follows Rockstar's real-world marketing in Miami and the Launch Trailer earlier in October.
 
 ### British Millionaire Says GTA 6 Could Save Players $5,000 by Replacing Nights Out
 - Category: Community · Stars: 2/5 · Published: 2026-11-02T14:41:55.427287+00:00
@@ -568,69 +622,3 @@ Rockstar gave Edge magazine a batch of 12 new GTA 6 screenshots on October 29, a
 - Page: https://vicecityhub.github.io/vicecityhub/n/4409-what-edge-says-is-new-in-gta-6-smarter-npcs-k-9-cops-scooter-bros-deli/ · Source: https://khelnow.com/gaming/edge-magazine-reveals-gta-6-new-screenshots-huge-gameplay-features-202610
 
 According to coverage of Edge's 16-page special, GTA 6's systems go deeper than the trailers suggest. This list comes from Khel Now's summary of the issue, so treat the specifics as secondhand. World: buses and trains are fully functional, days and nights last longer to feel closer to real time, and separate teams built the ads, TV shows, radio stations, political campaigns, pedestrians and fictional brands. NPCs and police: pedestrians react based on location, personality and what they witness, so carrying a shotgun down the street alarms them more than slinging a weapon over your shoulder. Police can deploy K-9 units, track suspects by clothing and known accomplices, and handle pursuits more realistically. Robbery victims may resist, shoppers may step in, and armed drivers can fight back against carjackers. Vehicles and items: a Scooter Bros service delivers your personal vehicle to your location, cars can carry tracking devices and have improved fuel management, and the in-game WAINK app helps locate valuable vehicles that criminal buyers want. Coffee boosts stamina and protein shakes temporarily increase health. The summary also mentions a Criminal Profile system, more enterable interiors and deeper Jason and Lucia relationship mechanics. Rockstar has not published its own breakdown, and the summary contains no direct developer quotes.
-
-### GTA 6 Is 17 Days Out: What's Confirmed, What's Rumored and What Rockstar Disputed
-- Category: Community · Stars: 4/5 · Published: 2026-11-02T14:41:55.427287+00:00
-- Page: https://vicecityhub.github.io/vicecityhub/n/4410-gta-6-is-17-days-out-what-s-confirmed-what-s-rumored-and-what-rockstar/ · Source: https://tech-insider.org/gta-6-confirmed-vs-rumor-scorecard-17-days-out-2026/
-
-With launch on November 19, a Tech Insider roundup published November 2 sorts the facts from the rumors. Confirmed per Rockstar, Take-Two and store pages: GTA 6 launches November 19, 2026 on PS5 and Xbox Series X/S, with no PS4 or Xbox One version. Digital preload starts at local midnight on November 12, seven days before launch. The Vintage Vice City Pack is the pre-order bonus for digital buyers who purchase before November 20. Prices reported in a November 1 roundup are $79.99 for the Standard Edition and $99.99 for the Ultimate Edition (£69.99 and £89.99 in the UK). Reported but unconfirmed: the 210 GB PS5 install size from store data, physical copies being a box with a download code rather than a disc, and the November 18 review embargo. Rumors and denials: GamesBeat reported a PC version targeting Q1 2027, citing four anonymous sources, and Rockstar has not commented. A single insider claimed a native PS5 version of Red Dead Redemption 2. Xbox denied the exclusive cloud-streaming report on October 7. Bloomberg reported a budget above $1.5 billion on October 14, which Rockstar disputed without publishing its own figure.
-
-### GTA 6 Reportedly Takes Up 210 GB on PS5, According to PlayStation Network Database Tracker
-- Category: Rumors · Stars: 4/5 · Published: 2026-10-29T18:45:54.035178+00:00
-- Page: https://vicecityhub.github.io/vicecityhub/n/4401-gta-6-reportedly-takes-up-210-gb-on-ps5-according-to-playstation-netwo/ · Source: https://vgtimes.com/games/gta-6/news/
-
-A PlayStation Game Size tracker account on X reported that GTA 6 takes up 210 GB on PS5, a figure it says it spotted in the PlayStation Network database. Rockstar and Sony have not confirmed the number, and install sizes can change before launch. Clear some space.
-
-### Circana Analyst: Publishers Overestimate How Much GTA 6 Will Dominate Player Attention
-- Category: Community · Stars: 3/5 · Published: 2026-10-29T18:45:54.035178+00:00
-- Page: https://vicecityhub.github.io/vicecityhub/n/4403-circana-analyst-publishers-overestimate-how-much-gta-6-will-dominate-p/ · Source: https://vgtimes.com/games/gta-6/news/
-
-Circana's Mat Piscatella said publishers are overestimating how much GTA 6 will dominate players' attention. It is one analyst's view, but it comes as other publishers adjust their release plans around the November 19 launch.
-
-### GameSir Unveils Two GTA 6-Styled G7 Pro Controllers - Without a Rockstar License
-- Category: Community · Stars: 2/5 · Published: 2026-10-29T18:45:54.035178+00:00
-- Page: https://vicecityhub.github.io/vicecityhub/n/4404-gamesir-unveils-two-gta-6-styled-g7-pro-controllers-without-a-rockstar/ · Source: https://vgtimes.com/games/gta-6/news/
-
-GameSir showed two G7 Pro controllers styled after GTA 6, with sales starting in November. The company has no Rockstar license or partnership for them, so these are unofficial products inspired by the game.
-
-### Virgin Media Ireland Offers EUR 100 an Hour to Play GTA 6 - Applications Close November 15
-- Category: Community · Stars: 2/5 · Published: 2026-10-29T18:45:54.035178+00:00
-- Page: https://vicecityhub.github.io/vicecityhub/n/4405-virgin-media-ireland-offers-eur-100-an-hour-to-play-gta-6-applications/ · Source: https://vgtimes.com/games/gta-6/news/
-
-Virgin Media Ireland is looking for a winner to play GTA 6 for EUR 100 per hour, with a free copy, in exchange for an honest opinion posted on social media. Applications close November 15.
-
-### Burger Shot and Cluckin' Bell Signs Show Up at Miami's Kaseya Center
-- Category: Community · Stars: 2/5 · Published: 2026-10-29T18:45:54.035178+00:00
-- Page: https://vicecityhub.github.io/vicecityhub/n/4406-burger-shot-and-cluckin-bell-signs-show-up-at-miami-s-kaseya-center/ · Source: https://vgtimes.com/games/gta-6/news/
-
-Burger Shot and Cluckin' Bell signage now appears at Miami's Kaseya Center as part of Rockstar's real-world marketing. GTA 6 launches November 19 on PS5 and Xbox Series X/S.
-
-### Gesaffelstein and Justice Team Up on a GTA 6 Track - A 50-Track Soundtrack Is Coming in December
-- Category: Official · Stars: 4/5 · Published: 2026-10-29T18:45:54.035178+00:00
-- Page: https://vicecityhub.github.io/vicecityhub/n/4399-gesaffelstein-and-justice-team-up-on-a-gta-6-track-a-50-track-soundtra/ · Source: https://www.rockstargames.com/newswire/article/39ak8a12395591/grand-theft-auto-vi-original-score-by-justice
-
-Gesaffelstein and Justice teamed up on a GTA 6 track that went live at midnight local time on October 29. Pre-orders for a 50-track soundtrack are due in December, according to reports around the release. On the same day Rockstar published a Newswire post titled "Grand Theft Auto VI: Original Score by Justice." It confirms the original score was composed by the French duo Justice, Gaspard Augé and Xavier de Rosnay, who are Grammy winners. Justice also wrote the single that debuted in the October 15 launch trailer, "Flower in a Hurricane," featuring Tame Impala, SZA and King Gizzard & The Lizard Wizard. It's a clear sign of how the game will sound: licensed songs on the radio, as announced earlier this month with six stations, plus an original electronic score built by artists Rockstar picked personally. The game launches November 19 on PS5 and Xbox Series X/S.
-
-### Rockstar Lets Journalists Watch an Unscripted 90-Minute GTA 6 Session - Map Said to Match GTA 4, GTA 5 and RDR2 Combined
-- Category: Official · Stars: 5/5 · Published: 2026-10-29T18:45:54.035178+00:00
-- Page: https://vicecityhub.github.io/vicecityhub/n/4398-rockstar-lets-journalists-watch-an-unscripted-90-minute-gta-6-session/ · Source: https://vgtimes.com/games/gta-6/news/
-
-Rockstar invited journalists into its studio for an unscripted session in which the head of development played GTA 6 for about 90 minutes. Reports from the session say the map is roughly the size of GTA 4, GTA 5 and Red Dead Redemption 2 combined, and that police track players based on their descriptions, so a quick outfit change matters more than it used to. These are accounts from the people in the room; Rockstar has not published its own breakdown. Launch is November 19 on PS5 and Xbox Series X/S.
-
-### South Park Shows GTA 6 Footage in a New Episode - Rockstar Credited at the End
-- Category: Community · Stars: 3/5 · Published: 2026-10-29T18:45:54.035178+00:00
-- Page: https://vicecityhub.github.io/vicecityhub/n/4402-south-park-shows-gta-6-footage-in-a-new-episode-rockstar-credited-at-t/ · Source: https://vgtimes.com/games/gta-6/news/
-
-A new South Park episode, "Guinea Pig on a Stick," aired October 28 on Comedy Central and included GTA 6 footage that hadn't been shown before. In the scene, Jason hits a passerby with dog poop. Rockstar Games is thanked in the end credits, which is the main reason fans treat the footage as authorized rather than leaked. Fans noted it is the first new raw gameplay footage since August, aside from the launch trailer. It is an odd but effective marketing move: a mainstream adult cartoon showing your game's physics and humor, with the studio's name in the credits. Rockstar has not commented on the crossover.
-
-### Insider: Rockstar Is Sending GTA 6 Review Codes, Embargo Lifts November 18
-- Category: Rumors · Stars: 4/5 · Published: 2026-10-29T18:45:54.035178+00:00
-- Page: https://vicecityhub.github.io/vicecityhub/n/4400-insider-rockstar-is-sending-gta-6-review-codes-embargo-lifts-november/ · Source: https://vgtimes.com/games/gta-6/news/
-
-Insider NateTheHate reported on X that Rockstar has started sending out GTA 6 review codes, and that the review embargo lifts on November 18. Insider Gaming says it independently verified the November 18 date in a report published on October 26. The reported date falls six days after digital preloading begins on November 12 and one day before the November 19 launch on PS5 and Xbox Series X/S. No time of day or region breakdown has been reported, and it is not known which outlets have codes or whether access is staggered. Rockstar has not confirmed either detail. Treat November 18 as a reported date, not an official announcement, until Rockstar publishes its own review information.
-
-### GTA VI-Themed Beer Labels Clear US Approval - Pißwasser, Patriot and No Mames Vice City
-- Category: Community · Stars: 2/5 · Published: 2026-10-29T18:45:54.035178+00:00
-- Page: https://vicecityhub.github.io/vicecityhub/n/4407-gta-vi-themed-beer-labels-clear-us-approval-pi-wasser-patriot-and-no-m/ · Source: https://vgtimes.com/games/gta-6/news/
-
-Tripping Animals Brewing's GTA VI-themed beer labels, Pißwasser, Patriot and No Mames Vice City, have cleared approval from the US Alcohol and Tobacco Tax and Trade Bureau. The brewery has not said whether the beers will reach shelves.
