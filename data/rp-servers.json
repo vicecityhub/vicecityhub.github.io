@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T08:31:22.637Z",
+  "generated_at": "2026-11-05T08:33:32.097Z",
   "source": "https://lpglkglhjdqnktybksth.supabase.co/functions/v1/agent-api/v1/rp/servers",
   "count": 100,
   "items": [
@@ -23,7 +23,7 @@
       "id": "924774ea-e22a-4db2-afdb-e38672f3d9fe",
       "name": "Fam 2.0 @REBIRTHZVPS",
       "status": "ONLINE",
-      "online_count": 596,
+      "online_count": 613,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -55,7 +55,7 @@
       "id": "5624b4fb-154f-4631-be1e-e03ac2a7c65c",
       "name": "Grand Roleplay US 1",
       "status": "ONLINE",
-      "online_count": 508,
+      "online_count": 520,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -116,7 +116,7 @@
       "id": "745a8db5-dab4-4c0c-b51b-1d2558472636",
       "name": "SlaxRP Romania",
       "status": "ONLINE",
-      "online_count": 184,
+      "online_count": 188,
       "max_players": 1400,
       "tags": [
         "Public",
@@ -153,7 +153,7 @@
       "id": "f0ba4653-4e37-4877-b7e1-b628b6a0efd8",
       "name": "DISTRICT 99",
       "status": "ONLINE",
-      "online_count": 472,
+      "online_count": 477,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -208,7 +208,7 @@
       "id": "981697dc-ca0a-48e2-8571-1ae46298c7c7",
       "name": "RINA ROLEPLAY",
       "status": "ONLINE",
-      "online_count": 159,
+      "online_count": 162,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -227,7 +227,7 @@
       "id": "8e98e3b4-0ce2-4890-8cc8-2c328a2cdda6",
       "name": "FlashBack FA",
       "status": "ONLINE",
-      "online_count": 148,
+      "online_count": 150,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -355,7 +355,7 @@
       "id": "ab537682-6875-4775-be70-da4cf194a8e8",
       "name": "REDSIDE RP V5",
       "status": "ONLINE",
-      "online_count": 96,
+      "online_count": 100,
       "max_players": 1450,
       "tags": [
         "Public",
@@ -399,7 +399,7 @@
       "id": "72a5f74c-f56a-474f-b2de-fba6cfdb18db",
       "name": "OsloRP",
       "status": "ONLINE",
-      "online_count": 41,
+      "online_count": 47,
       "max_players": 750,
       "tags": [
         "Allowlist",
@@ -484,7 +484,7 @@
       "id": "843d8a1c-db83-404e-8a55-ada6fd2d2379",
       "name": "XEN ROLEPLAY NON WHITELIST",
       "status": "ONLINE",
-      "online_count": 35,
+      "online_count": 34,
       "max_players": 999,
       "tags": [
         "Public",
@@ -503,7 +503,7 @@
       "id": "a92a083e-14e4-45da-848b-6f7d02b053fd",
       "name": "CORLEONE CITY REMASTERED UPDATE",
       "status": "ONLINE",
-      "online_count": 37,
+      "online_count": 40,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -522,7 +522,7 @@
       "id": "837b6840-7e79-4149-be93-4e37541e10d5",
       "name": "RevolutionRP",
       "status": "ONLINE",
-      "online_count": 96,
+      "online_count": 98,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -544,7 +544,7 @@
       "id": "0559eaea-cc45-403b-b984-206c53818abd",
       "name": "AtlanticRP",
       "status": "ONLINE",
-      "online_count": 39,
+      "online_count": 41,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -657,7 +657,7 @@
       "id": "310ee8b6-724f-4612-9471-ba03da7e8ff7",
       "name": "LAC The First Generation",
       "status": "ONLINE",
-      "online_count": 148,
+      "online_count": 147,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -713,7 +713,7 @@
       "id": "991b823e-7793-4063-a2b0-e2ce55affdf1",
       "name": "Focus Roleplay Balkan NAJBOLJI FPS",
       "status": "ONLINE",
-      "online_count": 118,
+      "online_count": 120,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -770,7 +770,7 @@
       "id": "d048f71c-3688-489e-ade0-f21e18702bf5",
       "name": "HighLife Roleplay",
       "status": "ONLINE",
-      "online_count": 176,
+      "online_count": 166,
       "max_players": 400,
       "tags": [
         "Public",
@@ -792,7 +792,7 @@
       "id": "bd2f4219-fd5d-43f2-9362-c8b234d18358",
       "name": "VICEEEE CITY #SEASON 3",
       "status": "ONLINE",
-      "online_count": 141,
+      "online_count": 127,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -831,7 +831,7 @@
       "id": "02a8e23e-9271-4db0-96e7-2a4a95d337db",
       "name": "New Era Roleplay",
       "status": "ONLINE",
-      "online_count": 106,
+      "online_count": 108,
       "max_players": 350,
       "tags": [
         "Allowlist",
@@ -904,7 +904,7 @@
       "id": "ab0edb19-386b-4a4c-96d9-afefbb5b2f74",
       "name": "HAOS^ 7ROMANIA REBORN",
       "status": "ONLINE",
-      "online_count": 40,
+      "online_count": 41,
       "max_players": 300,
       "tags": [
         "Public",
@@ -984,7 +984,7 @@
       "id": "2baeda34-aace-4997-bd4c-5ee108440112",
       "name": "WISE FA RP SÉRIEUX PAS D'ARMES PERM",
       "status": "ONLINE",
-      "online_count": 49,
+      "online_count": 50,
       "max_players": 800,
       "tags": [
         "Public",
@@ -1006,7 +1006,7 @@
       "id": "31949378-fd61-4472-972f-7490b75a56f7",
       "name": "HOPE INDONESIA",
       "status": "ONLINE",
-      "online_count": 134,
+      "online_count": 131,
       "max_players": 1000,
       "tags": [
         "Public",
@@ -1041,7 +1041,7 @@
       "id": "e88f22ad-47d1-4985-99b9-d47053396019",
       "name": "Balkan Vortex Roleplay",
       "status": "ONLINE",
-      "online_count": 42,
+      "online_count": 44,
       "max_players": 300,
       "tags": [
         "Public",
@@ -1107,7 +1107,7 @@
       "id": "949eaf11-0bde-40a5-99c1-ee3caea8ca5e",
       "name": "MyRP.pl",
       "status": "ONLINE",
-      "online_count": 12,
+      "online_count": 14,
       "max_players": 750,
       "tags": [
         "Public",
@@ -1167,7 +1167,7 @@
       "id": "82c9edf3-b0ef-489e-8a87-92c95fcb35ea",
       "name": "Legacy Roleplay India Recently Wiped",
       "status": "ONLINE",
-      "online_count": 105,
+      "online_count": 107,
       "max_players": 300,
       "tags": [
         "Public",
@@ -1227,7 +1227,7 @@
       "id": "7a6a3ab5-ddb6-4cd9-a81d-c94f3230285e",
       "name": "Devas City",
       "status": "ONLINE",
-      "online_count": 67,
+      "online_count": 66,
       "max_players": 500,
       "tags": [
         "Allowlist",
@@ -1246,7 +1246,7 @@
       "id": "c1936bff-a925-4ca7-bde1-5dceacd64b4b",
       "name": "ORG RP INAUGURACIÓN AHORA #TOP",
       "status": "ONLINE",
-      "online_count": 174,
+      "online_count": 172,
       "max_players": 2000,
       "tags": [
         "Public",
@@ -1340,7 +1340,7 @@
       "id": "6c7224d0-0097-48a8-938b-61f07da2471d",
       "name": "City Of Love",
       "status": "ONLINE",
-      "online_count": 238,
+      "online_count": 232,
       "max_players": 500,
       "tags": [
         "Public",
@@ -1497,7 +1497,7 @@
       "id": "a523b101-2fc2-4d2b-b709-80594ac7c2b6",
       "name": "The Raq",
       "status": "ONLINE",
-      "online_count": 100,
+      "online_count": 101,
       "max_players": 350,
       "tags": [
         "Public",
@@ -1540,7 +1540,7 @@
       "id": "e566115b-33fe-4e86-a5e3-7e5375f37471",
       "name": "Legacy RP Whitelisted",
       "status": "ONLINE",
-      "online_count": 11,
+      "online_count": 12,
       "max_players": 325,
       "tags": [
         "Public",
@@ -1575,7 +1575,7 @@
       "id": "e1014164-7444-481f-912c-711bd969046a",
       "name": "Trappin Beginner Friendly",
       "status": "ONLINE",
-      "online_count": 68,
+      "online_count": 67,
       "max_players": 300,
       "tags": [
         "Public",
@@ -1692,7 +1692,7 @@
       "id": "0da3541c-c376-4095-a3b5-27172612fc7f",
       "name": "Optic",
       "status": "ONLINE",
-      "online_count": 27,
+      "online_count": 33,
       "max_players": 128,
       "tags": [
         "Allowlist",
@@ -1752,7 +1752,7 @@
       "id": "cd7f0d97-86e9-4a95-9e6c-cddfad773f6b",
       "name": "Windy Shooting & Scenes",
       "status": "ONLINE",
-      "online_count": 36,
+      "online_count": 39,
       "max_players": 125,
       "tags": [
         "Public",
@@ -1774,7 +1774,7 @@
       "id": "3346b6d7-cd57-4e29-855b-7368cf006957",
       "name": "Phatz RP",
       "status": "ONLINE",
-      "online_count": 34,
+      "online_count": 32,
       "max_players": 150,
       "tags": [
         "Allowlist",
@@ -1846,7 +1846,7 @@
       "id": "705219f6-4692-41ee-b49f-67707d7d007c",
       "name": "The Sections Roleplay",
       "status": "ONLINE",
-      "online_count": 69,
+      "online_count": 78,
       "max_players": 450,
       "tags": [
         "Allowlist",
@@ -1890,7 +1890,7 @@
       "id": "9d25e348-ce6d-430e-8c10-2d1146c3e837",
       "name": "The Pines Roleplay",
       "status": "ONLINE",
-      "online_count": 24,
+      "online_count": 23,
       "max_players": 150,
       "tags": [
         "Allowlist",
