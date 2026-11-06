@@ -1,6 +1,6 @@
 # Vice City Hub — full guide for AI agents (v12.0.0)
 
-Generated 2026-11-06T12:05:20.087Z. Live data beats this snapshot: call the API for anything time-sensitive.
+Generated 2026-11-06T12:36:58.244Z. Live data beats this snapshot: call the API for anything time-sensitive.
 
 ## What this site is
 
@@ -522,7 +522,7 @@ Catalog: GET https://lpglkglhjdqnktybksth.supabase.co/functions/v1/agent-premium
 - **LIBERTY 99** [ONLINE] — General public FiveM roleplay server. Built on vRP. Features: racing, in-game voice. — connect: https://cfx.re/join/oax6pvv
 - **Rolas Academy ESP** [ONLINE] — General public FiveM roleplay server (Spanish). Built on ESX. Features: police, EMS, gangs, economy, jobs, in-game voice. — connect: https://cfx.re/join/xv9vge
 - **DayBreak RP** [ONLINE] — Casual allowlist FiveM roleplay server. Built on QBCore. Features: police, EMS, gangs, economy, jobs, drugs. — connect: https://cfx.re/join/ooylmr
-- **South Beach V2** [ONLINE] — Semi-serious public FiveM roleplay server. Built on ESX. Features: police, EMS, economy, businesses, racing, in-game voice. — connect: https://cfx.re/join/3eddyb
+- **South Beach V2** [OFFLINE] — Semi-serious public FiveM roleplay server. Built on ESX. Features: police, EMS, economy, businesses, racing, in-game voice. — connect: https://cfx.re/join/3eddyb
 - **HydraSync Roleplay** [ONLINE] — Serious allowlist FiveM roleplay server. — connect: https://cfx.re/join/5ooe5pr
 - **SpainCity Evolution HALLOWEEN EDITION** [ONLINE] — General public FiveM roleplay server (Spanish). Built on ESX. Features: police, EMS, economy, jobs, businesses, drugs. — connect: https://cfx.re/join/4ggm3b9
 - **EchoRP** [ONLINE] — General allowlist FiveM roleplay server. Features: police, EMS, gangs, economy, businesses, drugs. — connect: https://cfx.re/join/68oab8
