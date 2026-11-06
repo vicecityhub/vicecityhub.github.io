@@ -1,6 +1,6 @@
 # Vice City Hub — full guide for AI agents (v12.0.0)
 
-Generated 2026-11-06T13:38:48.155Z. Live data beats this snapshot: call the API for anything time-sensitive.
+Generated 2026-11-06T17:18:07.844Z. Live data beats this snapshot: call the API for anything time-sensitive.
 
 ## What this site is
 
