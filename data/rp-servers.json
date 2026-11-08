@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T21:31:52.509Z",
+  "generated_at": "2026-11-08T21:33:05.897Z",
   "source": "https://lpglkglhjdqnktybksth.supabase.co/functions/v1/agent-api/v1/rp/servers",
   "count": 100,
   "items": [
@@ -23,7 +23,7 @@
       "id": "924774ea-e22a-4db2-afdb-e38672f3d9fe",
       "name": "Fam 2.0 @REBIRTHZVPS",
       "status": "ONLINE",
-      "online_count": 457,
+      "online_count": 453,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -40,7 +40,7 @@
       "id": "fee88f75-0a9a-447f-9f2a-1ac47945bff7",
       "name": "Baylife RP",
       "status": "ONLINE",
-      "online_count": 1587,
+      "online_count": 1577,
       "max_players": 2040,
       "tags": [
         "Public"
@@ -55,7 +55,7 @@
       "id": "5624b4fb-154f-4631-be1e-e03ac2a7c65c",
       "name": "Grand Roleplay US 1",
       "status": "ONLINE",
-      "online_count": 649,
+      "online_count": 654,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -116,7 +116,7 @@
       "id": "745a8db5-dab4-4c0c-b51b-1d2558472636",
       "name": "SlaxRP Romania",
       "status": "ONLINE",
-      "online_count": 740,
+      "online_count": 736,
       "max_players": 1400,
       "tags": [
         "Public",
@@ -153,7 +153,7 @@
       "id": "f0ba4653-4e37-4877-b7e1-b628b6a0efd8",
       "name": "DISTRICT 99",
       "status": "ONLINE",
-      "online_count": 922,
+      "online_count": 919,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -171,7 +171,7 @@
       "id": "5d805631-bc73-40d6-98db-4007fff45386",
       "name": "RIA ROLEPLAY NON-WHITELIST",
       "status": "ONLINE",
-      "online_count": 449,
+      "online_count": 435,
       "max_players": 1881,
       "tags": [
         "Public",
@@ -227,7 +227,7 @@
       "id": "8e98e3b4-0ce2-4890-8cc8-2c328a2cdda6",
       "name": "FlashBack FA",
       "status": "ONLINE",
-      "online_count": 1311,
+      "online_count": 1293,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -432,7 +432,7 @@
       "id": "5d51b6bb-2f05-4eb9-a2c0-959c4ac28e5f",
       "name": "Arab Evils RP",
       "status": "ONLINE",
-      "online_count": 242,
+      "online_count": 245,
       "max_players": 600,
       "tags": [
         "Public",
@@ -449,7 +449,7 @@
       "id": "4b67e643-61d4-41b4-972d-3046d0def9f1",
       "name": "FLUXO ROLEPLAY OFICIAL",
       "status": "ONLINE",
-      "online_count": 668,
+      "online_count": 670,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -544,7 +544,7 @@
       "id": "0559eaea-cc45-403b-b984-206c53818abd",
       "name": "AtlanticRP",
       "status": "ONLINE",
-      "online_count": 593,
+      "online_count": 589,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -597,7 +597,7 @@
       "id": "ff5ab7ad-0642-40be-bc95-124a79aab38c",
       "name": "MALTA RP INAUGUROU",
       "status": "ONLINE",
-      "online_count": 451,
+      "online_count": 447,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -657,7 +657,7 @@
       "id": "310ee8b6-724f-4612-9471-ba03da7e8ff7",
       "name": "LAC The First Generation",
       "status": "ONLINE",
-      "online_count": 106,
+      "online_count": 105,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -675,7 +675,7 @@
       "id": "2c3cf159-5fcf-4fd8-9d68-e306814105c9",
       "name": "PRO4KINGS ROMANIA",
       "status": "ONLINE",
-      "online_count": 210,
+      "online_count": 206,
       "max_players": 1150,
       "tags": [
         "Public",
@@ -694,7 +694,7 @@
       "id": "9d270bed-f461-4866-b736-a5c323f65ad1",
       "name": "The 305",
       "status": "ONLINE",
-      "online_count": 634,
+      "online_count": 637,
       "max_players": 700,
       "tags": [
         "Public",
@@ -713,7 +713,7 @@
       "id": "991b823e-7793-4063-a2b0-e2ce55affdf1",
       "name": "Focus Roleplay Balkan NAJBOLJI FPS",
       "status": "ONLINE",
-      "online_count": 277,
+      "online_count": 274,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -770,7 +770,7 @@
       "id": "d048f71c-3688-489e-ade0-f21e18702bf5",
       "name": "HighLife Roleplay",
       "status": "ONLINE",
-      "online_count": 399,
+      "online_count": 400,
       "max_players": 400,
       "tags": [
         "Public",
@@ -792,7 +792,7 @@
       "id": "bd2f4219-fd5d-43f2-9362-c8b234d18358",
       "name": "VICEEEE CITY #SEASON 3",
       "status": "ONLINE",
-      "online_count": 283,
+      "online_count": 284,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -864,7 +864,7 @@
       "id": "1bff23dc-c6cb-42e2-bae7-b6b122153458",
       "name": "UNITY Legacy #1 #NOUVEAU SERVEUR",
       "status": "ONLINE",
-      "online_count": 510,
+      "online_count": 503,
       "max_players": 900,
       "tags": [
         "Public",
@@ -904,7 +904,7 @@
       "id": "ab0edb19-386b-4a4c-96d9-afefbb5b2f74",
       "name": "HAOS^ 7ROMANIA REBORN",
       "status": "ONLINE",
-      "online_count": 163,
+      "online_count": 162,
       "max_players": 300,
       "tags": [
         "Public",
@@ -948,7 +948,7 @@
       "id": "d6baae31-c1d2-40ab-95a0-bc89577f5fee",
       "name": "STRP Europe",
       "status": "ONLINE",
-      "online_count": 356,
+      "online_count": 346,
       "max_players": 750,
       "tags": [
         "Allowlist",
@@ -984,7 +984,7 @@
       "id": "2baeda34-aace-4997-bd4c-5ee108440112",
       "name": "WISE FA RP SÉRIEUX PAS D'ARMES PERM",
       "status": "ONLINE",
-      "online_count": 464,
+      "online_count": 470,
       "max_players": 800,
       "tags": [
         "Public",
@@ -1041,7 +1041,7 @@
       "id": "e88f22ad-47d1-4985-99b9-d47053396019",
       "name": "Balkan Vortex Roleplay",
       "status": "ONLINE",
-      "online_count": 196,
+      "online_count": 191,
       "max_players": 300,
       "tags": [
         "Public",
@@ -1063,7 +1063,7 @@
       "id": "a3638fed-cbb4-4ec1-9b05-1185431689c3",
       "name": "GL1TCH NYC V5 Story-Driven RPFemale S",
       "status": "ONLINE",
-      "online_count": 170,
+      "online_count": 172,
       "max_players": 200,
       "tags": [
         "Allowlist",
@@ -1107,7 +1107,7 @@
       "id": "949eaf11-0bde-40a5-99c1-ee3caea8ca5e",
       "name": "MyRP.pl",
       "status": "ONLINE",
-      "online_count": 285,
+      "online_count": 273,
       "max_players": 750,
       "tags": [
         "Public",
@@ -1148,7 +1148,7 @@
       "id": "db447061-83b3-4778-bfd0-1fe258bf0b9e",
       "name": "The Palms OPEN NOW OCTOBER 31ST!",
       "status": "ONLINE",
-      "online_count": 264,
+      "online_count": 269,
       "max_players": 500,
       "tags": [
         "Allowlist",
@@ -1227,7 +1227,7 @@
       "id": "7a6a3ab5-ddb6-4cd9-a81d-c94f3230285e",
       "name": "Devas City",
       "status": "ONLINE",
-      "online_count": 71,
+      "online_count": 65,
       "max_players": 500,
       "tags": [
         "Allowlist",
@@ -1266,7 +1266,7 @@
       "id": "7243ebb7-0e79-4c91-9024-9c3ae8422242",
       "name": "Sunset Stories 18 Spooky Season",
       "status": "ONLINE",
-      "online_count": 220,
+      "online_count": 219,
       "max_players": 400,
       "tags": [
         "Public",
@@ -1361,7 +1361,7 @@
       "id": "5f8c8ac1-ba3b-45d3-8bf9-7a8952e6a1a0",
       "name": "LIBERTY 99",
       "status": "ONLINE",
-      "online_count": 272,
+      "online_count": 271,
       "max_players": 2048,
       "tags": [
         "Public",
@@ -1420,7 +1420,7 @@
       "id": "3aa0987b-abaa-4c9c-a6eb-c637d678bdcb",
       "name": "South Beach V2",
       "status": "ONLINE",
-      "online_count": 9,
+      "online_count": 76,
       "max_players": 350,
       "tags": [
         "Public",
@@ -1441,7 +1441,7 @@
       "id": "086ce54e-349d-4e8c-9a07-a0de2506f395",
       "name": "HydraSync Roleplay",
       "status": "ONLINE",
-      "online_count": 52,
+      "online_count": 49,
       "max_players": 175,
       "tags": [
         "Allowlist",
@@ -1540,7 +1540,7 @@
       "id": "e566115b-33fe-4e86-a5e3-7e5375f37471",
       "name": "Legacy RP Whitelisted",
       "status": "ONLINE",
-      "online_count": 161,
+      "online_count": 153,
       "max_players": 325,
       "tags": [
         "Public",
@@ -1730,7 +1730,7 @@
       "id": "6babd888-c2c7-4fe1-9801-dc86780cb5c2",
       "name": "Summit RP",
       "status": "ONLINE",
-      "online_count": 128,
+      "online_count": 129,
       "max_players": 200,
       "tags": [
         "Public",
@@ -1809,7 +1809,7 @@
       "id": "7589eb38-c94f-4bef-bb19-e1d280f03dac",
       "name": "Windy City",
       "status": "ONLINE",
-      "online_count": 84,
+      "online_count": 87,
       "max_players": 300,
       "tags": [
         "Public",
@@ -1846,7 +1846,7 @@
       "id": "705219f6-4692-41ee-b49f-67707d7d007c",
       "name": "The Sections Roleplay",
       "status": "ONLINE",
-      "online_count": 92,
+      "online_count": 87,
       "max_players": 450,
       "tags": [
         "Allowlist",
@@ -1908,7 +1908,7 @@
       "id": "81b39b50-a8f9-471b-8e38-8568537d0872",
       "name": "IMPERO 14",
       "status": "ONLINE",
-      "online_count": 586,
+      "online_count": 587,
       "max_players": 2048,
       "tags": [
         "Allowlist",
