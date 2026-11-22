@@ -1,7 +1,7 @@
 {
   "name": "Vice City Hub",
   "version": "12.0.0",
-  "generated_at": "2026-11-21T22:42:05.784Z",
+  "generated_at": "2026-11-22T04:44:10.449Z",
   "note": "Static snapshots refreshed on every deploy (~6h). For real-time data and purchases use the live Agent API.",
   "feeds": {
     "news": {
