@@ -1,6 +1,6 @@
 # Vice City Hub — full guide for AI agents (v12.0.0)
 
-Generated 2026-11-23T05:21:42.118Z. Live data beats this snapshot: call the API for anything time-sensitive.
+Generated 2026-11-23T17:10:43.882Z. Live data beats this snapshot: call the API for anything time-sensitive.
 
 ## What this site is
 
@@ -471,7 +471,7 @@ Catalog: GET https://lpglkglhjdqnktybksth.supabase.co/functions/v1/agent-premium
 - **مقاطعة العاذرية** [OFFLINE] — General public FiveM roleplay server (Arabic). Built on ESX. Features: police, EMS, gangs, economy, jobs, drugs. — connect: https://cfx.re/join/eqz73a
 - **OsloRP** [OFFLINE] — General allowlist FiveM roleplay server (Polish). Built on ESX. Features: police, EMS, gangs, economy, jobs, racing. — connect: https://cfx.re/join/y99l65j
 - **Unity RP** [ONLINE] — General public FiveM roleplay server (Arabic). Built on vRP. Features: gangs, economy, in-game voice. — connect: https://cfx.re/join/55xbk6
-- **Arab Evils RP** [ONLINE] — General public FiveM roleplay server (Arabic). Built on vRP. Features: police, gangs, in-game voice. — connect: https://cfx.re/join/3yg5jyb
+- **Arab Evils RP** [OFFLINE] — General public FiveM roleplay server (Arabic). Built on vRP. Features: police, gangs, in-game voice. — connect: https://cfx.re/join/3yg5jyb
 - **FLUXO ROLEPLAY OFICIAL** [ONLINE] — General public FiveM roleplay server (Portuguese). Built on vRP. Features: police, racing, in-game voice. — connect: https://cfx.re/join/djoq65
 - **NUSA V ROLEPLAY INDONESIA** [ONLINE] — General public FiveM roleplay server (Indonesian). Built on QBCore. Features: EMS, economy, drugs, racing, in-game voice. — connect: https://cfx.re/join/ele3bm
 - **XEN ROLEPLAY NON WHITELIST** [ONLINE] — General public FiveM roleplay server (Turkish). Built on QBCore. Features: police, EMS, jobs, heists, racing, in-game voice. — connect: https://cfx.re/join/m4zv6av
@@ -490,7 +490,7 @@ Catalog: GET https://lpglkglhjdqnktybksth.supabase.co/functions/v1/agent-premium
 - **77RP WL:OFF** [ONLINE] — General public FiveM roleplay server (Polish). Features: police, EMS, gangs, economy, businesses, drugs. — connect: https://cfx.re/join/965vlm
 - **시그널ᆞSIGNAL** [ONLINE] — General public FiveM roleplay server (Korean). Features: police, gangs, economy, heists, in-game voice. — connect: https://cfx.re/join/gaagj8o
 - **HighLife Roleplay** [ONLINE] — Serious public FiveM roleplay server. Features: police, EMS, economy, jobs, drugs, custom cars. — connect: https://cfx.re/join/v87yoq
-- **VICEEEE CITY #SEASON 3** [ONLINE] — General public FiveM roleplay server (Portuguese). Built on vRP. Features: police, EMS, racing, in-game voice. — connect: https://cfx.re/join/m44v84q
+- **VICEEEE CITY #SEASON 3** [OFFLINE] — General public FiveM roleplay server (Portuguese). Built on vRP. Features: police, EMS, racing, in-game voice. — connect: https://cfx.re/join/m44v84q
 - **KNG ESTATE** [ONLINE] — General public FiveM roleplay server. Built on vRP. Features: racing, in-game voice. — connect: https://cfx.re/join/vv934e
 - **New Era Roleplay** [ONLINE] — General allowlist FiveM roleplay server. Built on ESX. Features: police, EMS, gangs, economy, jobs, businesses. — connect: https://cfx.re/join/amjvl9
 - **FlashWorld FA** [ONLINE] — General public FiveM roleplay server (French). Features: EMS, gangs, drugs. — connect: https://cfx.re/join/74roba
@@ -549,76 +549,118 @@ Catalog: GET https://lpglkglhjdqnktybksth.supabase.co/functions/v1/agent-premium
 - **The Pines Roleplay** [ONLINE] — General allowlist FiveM roleplay server. Built on Qbox. Features: police, EMS, gangs, economy, drugs, racing. — connect: https://cfx.re/join/rmmjv7p
 - **IMPERO 14** [ONLINE] — General allowlist FiveM roleplay server (Italian). Built on Qbox. Features: police, EMS, economy, businesses, drugs, racing. — connect: https://cfx.re/join/3vk49z
 
-## Latest news (12)
+## Latest news (19)
 
-### Rumor: Travis Scott x Nike GTA 6 Sneakers Listed for Launch Day in Three Colorways
-- Category: Rumors · Stars: 2/5 · Published: 2026-11-05T19:50:02.654322+00:00
-- Page: https://vicecityhub.github.io/vicecityhub/n/4420-rumor-travis-scott-x-nike-gta-6-sneakers-listed-for-launch-day-in-thre/ · Source: https://vgtimes.com/gaming-news/173168-nike-x-cactus-jack-x-rockstar-gta-6-sneakers-reportedly-set-for-november.html
+### Fans Debate Whether the Bikini Woman From the First Trailer Is Actually Lucia
+- Category: Community · Stars: 3/5 · Published: 2026-11-23T10:27:40.906911+00:00
+- Page: https://vicecityhub.github.io/vicecityhub/n/4438-fans-debate-whether-the-bikini-woman-from-the-first-trailer-is-actuall/ · Source: https://vgtimes.com/gaming-news/175243-gta-vi-players-identify-bikini-clad-woman-from-first-trailer-as-someone-other-than-lucia.html
 
-Travis Scott sneakers tied to GTA 6 have reportedly appeared on a store's release calendar for the same day as the game, in three colorways with wanted-star details. No one has officially confirmed a Nike, Cactus Jack and Rockstar collaboration, so this is an unconfirmed listing.
+Players say the woman in the first GTA 6 trailer is a separate character and not Lucia, reviving a debate that dates back to December 2023, according to VGTimes. The conclusion comes from players comparing the finished game with the trailer. It's a fan identification, not an official statement from Rockstar.
 
-### Sony Ships PS5 Update 26.07 Ahead of GTA 6 - and a Rumor Says the Game Needs It
-- Category: Rumors · Stars: 3/5 · Published: 2026-11-05T19:50:02.654322+00:00
-- Page: https://vicecityhub.github.io/vicecityhub/n/4417-sony-ships-ps5-update-26-07-ahead-of-gta-6-and-a-rumor-says-the-game-n/ · Source: https://vgtimes.com/gaming-news/173190-rumor-ps5-firmware-version-required-to-play-gta-6-may-have-been-revealed.html
+### GTA 6 Fans Retaliate Against the Ocarina of Time Remake on Metacritic
+- Category: Community · Stars: 2/5 · Published: 2026-11-23T10:27:40.906911+00:00
+- Page: https://vicecityhub.github.io/vicecityhub/n/4439-gta-6-fans-retaliate-against-the-ocarina-of-time-remake-on-metacritic/ · Source: https://vgtimes.com/gaming-news/175324-ocarina-of-time-remake-faces-retaliatory-review-bombing-over-gta-6.html
 
-Sony released PS5 system update 26.07 (14.22.00.00) with security fixes, though it has not said exactly what it fixes. A researcher reported running his own code on the previous firmware within hours of that firmware's release. Separately, the PlayStation Game Size account on X claims GTA 6 may require system software 14.22.00.00 or later. That claim is a rumor: Rockstar and Sony have not confirmed a firmware requirement. Updating your console before pre-load is a sensible move either way.
+After GTA 6 tied Ocarina of Time at 99 on Metacritic, GTA 6 fans retaliated against the Ocarina of Time remake with review bombing, according to VGTimes. The results were mixed.
 
-### A PS5 Pro Label for GTA 6 Appeared on PlayStation's French Site - But It May Be Fake
-- Category: Rumors · Stars: 3/5 · Published: 2026-11-05T19:50:02.654322+00:00
-- Page: https://vicecityhub.github.io/vicecityhub/n/4418-a-ps5-pro-label-for-gta-6-appeared-on-playstation-s-french-site-but-it/ · Source: https://vgtimes.com/gaming-news/173474-playstation-reportedly-revealed-gta-6-ps5-pro-features-early-but-users-suspect-listing-is-fake.html
+### 13 Beginner Tips From Early Players: RideMe Rides, the 20,000 Dollar Cash Limit, Suppressors and the Gym
+- Category: Community · Stars: 4/5 · Published: 2026-11-23T10:27:32.733852+00:00
+- Page: https://vicecityhub.github.io/vicecityhub/n/4435-13-beginner-tips-from-early-players-rideme-rides-the-20-000-dollar-cas/ · Source: https://www.invenglobal.com/articles/28810/13-beginner-tips-for-gta-6-i-wish-i-knew-from-the-start
 
-A PS5 Pro support label for GTA 6, mentioning PSSR and enhanced ray tracing, reportedly appeared on PlayStation's French website. Neither Rockstar nor Sony has confirmed it, and users suspect the listing is fake. Treat it as an unverified sighting until an official PS5 Pro statement arrives.
+An Inven Global player guide collects practical lessons from the first days: - Chapters 1 and 2 are for exploring. Serious cash opens in Chapter 3, with Jason's missions introducing the fences Tyrone and Yasmani. - Hold Right on the D-Pad to ask your partner for help: create a cop distraction, take the wheel, or sell your stash (slightly lower payout than selling in person). - Lucia and Jason don't share ammo or healing items. Weapons bought by one become available to both, but customization is per character. - There's no instant fast travel. Hail a ride through the RideMe app: tipping 5 dollars up to twice speeds up the driver, or pay 100 dollars for instant travel. - Join a gym and track fitness in the Health app. Skipping workouts causes muscle loss and lowers your max health cap. Eating temporarily raises max health and drinks boost stamina and focus. - Press L3 and R3 together to pinpoint the direction of nearby sounds, which is how many unmarked events start. - Prioritize suppressors in heavy firefights: they muffle gunshots and delay police response, but don't prevent all reports. - Watch fuel and engine condition. The Scooter Bros app delivers a repaired vehicle for a fee, and premium membership includes three free deliveries per day. - You can carry only 20,000 dollars. Deposit extra cash at an ATM via the Buck Me app, since dying with cash risks losing it. - Hold Down on the D-Pad for Cinematic Camera mode (autopilot), which obeys traffic laws strictly, so heavy traffic can stall it. These are one guide's findings, so details may change with patches.
 
-### UK Police Make a GTA-Style Wanted-Level Video About a Driver Who Will Miss GTA 6 in Prison
-- Category: Community · Stars: 2/5 · Published: 2026-11-05T19:50:02.654322+00:00
-- Page: https://vicecityhub.github.io/vicecityhub/n/4419-uk-police-make-a-gta-style-wanted-level-video-about-a-driver-who-will/ · Source: https://vgtimes.com/gaming-news/173445-derbyshire-police-mock-driver-who-will-miss-gta-6s-launch-in-prison.html
+### GTA 6 Barely Dents Steam and Roblox: Analysts Report Over Eight Hours of Average Playtime
+- Category: Community · Stars: 3/5 · Published: 2026-11-23T10:27:32.733852+00:00
+- Page: https://vicecityhub.github.io/vicecityhub/n/4437-gta-6-barely-dents-steam-and-roblox-analysts-report-over-eight-hours-o/ · Source: https://vgtimes.com/gaming-news/175382-gta-6-launch-barely-denting-steam-and-roblox-player-counts.html
 
-Derbyshire Police edited a chase video in the style of GTA, complete with a wanted level and HUD. The driver was jailed for dangerous and drug driving, which means he will miss GTA 6's launch. Viewers spotted one mistake in the video.
+Analysts reported a record share of players and an average of more than eight hours of play on GTA 6, while Steam and Roblox saw little drop in player counts, according to VGTimes. The article offers a theory for why: players seem to be adding GTA 6 on top of what they already play, not dropping other games. The figures are analyst estimates, and platform-level data can change quickly in the first weeks.
 
-### Rockstar Moves GTA 6 Pre-Load Up to November 10 - 212 GB Needed on PS5, Midnight Local Launch Everywhere
-- Category: Official · Stars: 5/5 · Published: 2026-11-05T19:50:02.654322+00:00
-- Page: https://vicecityhub.github.io/vicecityhub/n/4412-rockstar-moves-gta-6-pre-load-up-to-november-10-212-gb-needed-on-ps5-m/ · Source: https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10
+### Players Accuse Rockstar of Copying a Furry Fan Illustration for a Custom SMG Decal
+- Category: Community · Stars: 3/5 · Published: 2026-11-23T10:27:32.733852+00:00
+- Page: https://vicecityhub.github.io/vicecityhub/n/4436-players-accuse-rockstar-of-copying-a-furry-fan-illustration-for-a-cust/ · Source: https://vgtimes.com/gaming-news/175377-gta-vi-faces-artwork-copying-allegation-and-other-content-disputes.html
 
-Rockstar announced on November 3 that pre-loading for GTA 6 begins on November 10, earlier than the November 12 date that was previously reported. The Newswire post says the game is only a few weeks away and that there is still time to pre-order. On PS5, pre-loading starts Tuesday, November 10 at midnight local time and is for digital pre-orders, according to the PlayStation Blog announcement as summarized by Vice. PS5 owners need 212 GB of free space. VGTimes reports that pre-loading on Xbox Series X|S also begins globally on November 10, though the Xbox size was not confirmed in the material I reviewed. Pre-loading does not give early access. The game unlocks at midnight local time on November 19 in each region, so players in New Zealand get in first. Vice's conversion table for that moment: 3:00 AM Pacific, 6:00 AM Eastern, 11:00 AM UK and 12:00 PM Central Europe on November 18, 8:00 PM in Japan and 10:00 PM in Sydney on November 18. Nothing was reported about a Day One patch. Practical advice: clear space now, since 212 GB is a lot to find on a nearly full SSD, and start downloading on November 10 rather than at midnight on launch night.
+Players noticed that a custom SMG's decal closely resembles an illustration posted nearly five years before launch, according to VGTimes. The weapon is a reward for helping furries evade police in a state where they've been outlawed, so the in-game context is part of the joke. This is a player allegation, not a confirmed finding. I didn't see a response from Rockstar or the original artist in the material I reviewed.
 
-### Sensor Tower Estimates GTA 6 Pre-Orders at 7.7 Million Copies and Over $750 Million
-- Category: Community · Stars: 4/5 · Published: 2026-11-05T19:50:02.654322+00:00
-- Page: https://vicecityhub.github.io/vicecityhub/n/4413-sensor-tower-estimates-gta-6-pre-orders-at-7-7-million-copies-and-over/ · Source: https://vgtimes.com/gaming-news/173490-gta-6-has-already-generated-over-750-million-in-pre-order-revenue-with-77-million-copies-pre-ordered-analysts-estimate.html
+### Reddit's Best GTA 6 Finds So Far: Dexter's Apartment, Cash-Revealing Parrots, a Dog on a Jet Ski and Bigfoot
+- Category: Community · Stars: 4/5 · Published: 2026-11-23T10:27:32.733852+00:00
+- Page: https://vicecityhub.github.io/vicecityhub/n/4434-reddit-s-best-gta-6-finds-so-far-dexter-s-apartment-cash-revealing-par/ · Source: https://www.gamingbible.com/news/gta-6-easter-eggs-778903-20261120
 
-Sensor Tower estimates GTA 6 has about 7.71 million pre-orders and more than $750 million in pre-order revenue. The platform split is about 5.74 million on PS5, roughly $559 million or 74% of the total, and about 1.97 million on Xbox Series X/S, roughly $192 million. Since October 19, estimated pre-order revenue rose by about $100 million, from $630 million, and pre-orders grew by about 1.3 million. If that trend continues, the report says revenue could reach $1 billion before launch. The only benchmark in the article is a Newzoo projection that GTA 6 could earn up to $5.2 billion in its first week on sale. Rockstar and Take-Two have not confirmed any of these figures. They are analyst estimates with no published methodology, and the $1 billion number is a projection, not a result.
+Players have turned up a long list of oddities, most of them from Reddit posts and not independently verified: - A Vice City building closely resembles Dexter Morgan's apartment from the TV series Dexter. You can't enter it, and the official Dexter account on X reacted to it. Reddit user y_oake23 shared it. - At a liquor store in the Keys, a fight with angry men triggers parrots that cheer you on, and one reveals hidden cash near a generator. - If you are stranded at sea, a dog wearing goggles and a life jacket can rescue you on a jet ski, which the report links to a real golden retriever seen riding one in Florida in 2025. - In Chapter 2, an abandoned car with open doors and a sounding alarm leads into nearby woods, where players find a body and what looks like an alien abduction. - A statue of four horses near Manifest Canyon makes the controller vibrate and triggers beeping when approached. One horse wears a traffic cone, possibly a nod to Glasgow's Duke of Wellington statue. Its purpose is unknown. - During night free roam, an NPC under sniper aim reportedly becomes invincible and teleports behind the player, though it's unclear whether this is intentional or a glitch. - Bigfoot has reportedly been seen near Cottonmouth Lake, continuing the San Andreas tradition. The report doesn't give a trigger.
 
-### Rockstar's Support Rules Say GTA 6 Spoiler Videos Could Be Removed Even After Launch
-- Category: Official · Stars: 3/5 · Published: 2026-11-05T19:50:02.654322+00:00
-- Page: https://vicecityhub.github.io/vicecityhub/n/4414-rockstar-s-support-rules-say-gta-6-spoiler-videos-could-be-removed-eve/ · Source: https://vgtimes.com/gaming-news/173458-rockstar-could-crack-down-on-gta-6-spoilers-even-after-launch.html
+### Players Found a Secret Cutscene at the Top of a Leonida Tower: Seven Minutes of Climbing, One Egg
+- Category: Community · Stars: 4/5 · Published: 2026-11-23T10:27:15.125588+00:00
+- Page: https://vicecityhub.github.io/vicecityhub/n/4432-players-found-a-secret-cutscene-at-the-top-of-a-leonida-tower-seven-mi/ · Source: https://www.gamingbible.com/news/gta-6-secret-cutscene-seven-minute-tower-easter-egg-795530-20261119
 
-According to Rockstar's official support site guidelines, as summarized by VGTimes, the company may remove videos that show the ending, standalone cutscenes or other plot-revealing content. That means spoiler-heavy uploads can get taken down even after GTA 6 is out on November 19. If you make gameplay videos, check Rockstar's content guidelines before launch. Streams and normal gameplay are one thing; uploading cutscenes or the ending is where takedown risk starts.
+X user xGarbett shared a clip of a hidden cutscene after launch. It sits at the top of one of the tallest communications towers in Leonida, and reaching it by ladder takes about seven minutes, which the finder compares with the long ladder in Metal Gear Solid 3. How it works, according to the report: climb the tower, find a bird's nest with several large, colorful eggs, pick one up and throw it toward the road below. If it lands on a vehicle, a short cutscene plays: the egg spins through the air like a football and splatters across the car of an NPC who looks like he stepped out of 1980s Vice City, while the driver is busy on his phone. Players also say you can parachute onto the tower to skip the climb, but it takes precise timing. It echoes the hidden secret room in the 2002 GTA: Vice City. The exact tower location and trigger conditions haven't been fully verified, so you may need to experiment with your throw.
 
-### Take-Two CEO Brushes Off GTA 6 Dependence Fears at WSJ Tech
-- Category: Community · Stars: 3/5 · Published: 2026-11-05T19:50:02.654322+00:00
-- Page: https://vicecityhub.github.io/vicecityhub/n/4415-take-two-ceo-brushes-off-gta-6-dependence-fears-at-wsj-tech/ · Source: https://vgtimes.com/gaming-news/173569-take-two-ceo-pushes-back-on-gta-6-dependence-fears-with-15-franchise-figure.html
+### An NPC Conversation in GTA 6 Revives the 13-Year-Old Mount Chiliad Mystery
+- Category: Community · Stars: 4/5 · Published: 2026-11-23T10:27:15.125588+00:00
+- Page: https://vicecityhub.github.io/vicecityhub/n/4433-an-npc-conversation-in-gta-6-revives-the-13-year-old-mount-chiliad-mys/ · Source: https://www.gamingbible.com/news/gta-6-gta-5-mount-chiliad-mystery-easter-egg-802897-20261120
 
-At WSJ Tech in Napa Valley on November 4, Take-Two CEO Strauss Zelnick dismissed concerns that the company leans too heavily on GTA 6, pointing to its broader portfolio of franchises. The interviewer noted that Take-Two shares were more than 20% below their record high. It is a CEO answering an investor-style question, not a financial forecast. Take-Two has not published new GTA 6 sales numbers.
+Players noticed that NPCs in GTA 6 talk about the GTA 5 Mount Chiliad mystery. It happens in an early mission in which Donnie Carter sends Jason to a nearby bar: as you approach, unrelated NPCs can be overheard discussing strange events around Mount Chiliad in Blaine County. Reddit user Tr1angleChoke posted it first, and another user, SprungVenus, said they heard the same conversation, with a line about a hidden bunker with jetpacks and eggs under Chiliad. The Chiliad mural in GTA 5 (2013), with its UFO, jetpack, egg and symbols, fueled years of theories. Rockstar later added a jetpack and a secret underground facility in the 2017 Doomsday Heist, but some fans felt the original mystery was never fully explained. The report is based on consistent community accounts, not a firsthand check by the author. It's unknown whether it leads anywhere or is just a wink at fans. The Reddit threads contain spoilers.
 
-### GTA 6 Ads Pop Up in Barcelona, Edinburgh, Melbourne, Tokyo and Sao Paulo
-- Category: Community · Stars: 2/5 · Published: 2026-11-05T19:50:02.654322+00:00
-- Page: https://vicecityhub.github.io/vicecityhub/n/4416-gta-6-ads-pop-up-in-barcelona-edinburgh-melbourne-tokyo-and-sao-paulo/ · Source: https://vgtimes.com/gaming-news/173324-gta-vi-ads-appear-across-multiple-continents-as-rockstar-pushes-preorders.html
+### BryceXD and iShowSpeed Reportedly Become the First Streamers to Finish GTA 6
+- Category: Community · Stars: 2/5 · Published: 2026-11-23T10:18:39.176262+00:00
+- Page: https://vicecityhub.github.io/vicecityhub/n/4429-brycexd-and-ishowspeed-reportedly-become-the-first-streamers-to-finish/ · Source: https://vgtimes.com/gaming-news/175291-brycexd-and-ishowspeed-reportedly-become-first-streamers-to-finish-gta-6.html
 
-Outdoor ads for GTA 6 have appeared in Barcelona, Edinburgh, Melbourne, Tokyo and Sao Paulo, according to VGTimes. The campaign promotes the Vintage Vice City Pack, described as the last pre-order bonus before the November 19 launch on PS5 and Xbox Series X/S. The push follows Rockstar's real-world marketing in Miami and the Launch Trailer earlier in October.
+BryceXD and iShowSpeed reportedly became the first streamers to finish GTA 6, according to VGTimes. iShowSpeed streamed for 52 hours to get there. Both are early reports, and speed and completion claims will change as more players finish the story.
 
-### British Millionaire Says GTA 6 Could Save Players $5,000 by Replacing Nights Out
-- Category: Community · Stars: 2/5 · Published: 2026-11-02T14:41:55.427287+00:00
-- Page: https://vicecityhub.github.io/vicecityhub/n/4411-british-millionaire-says-gta-6-could-save-players-5-000-by-replacing-n/ · Source: https://vgtimes.com/gaming-news/173111-millionaire-says-gta-6-could-save-players-5000-by-replacing-nights-out.html
+### GTA 6 Is Out: Take-Two Says $3.79 Billion on Day One, 32.5 Million Copies Pre-Ordered
+- Category: Official · Stars: 5/5 · Published: 2026-11-23T10:18:39.176262+00:00
+- Page: https://vicecityhub.github.io/vicecityhub/n/4421-gta-6-is-out-take-two-says-3-79-billion-on-day-one-32-5-million-copies/ · Source: https://vgtimes.com/gaming-news/175290-official-gta-6-sells-325-million-copies-rakes-in-379-billion.html
 
-Social media creator and British millionaire Mark Tilbury argues in a viral video posted October 31 that GTA 6 could pay for itself if players stay home instead of going out. He estimates what each hour in Vice City costs using a display copy of the game he picked up in a store, and compares it with what a typical night out costs. It's a light-hearted take rather than financial advice. Still, with the Standard Edition reportedly priced at $79.99, the math isn't crazy if the game keeps you busy for weeks.
+GTA 6 launched on November 19 on PS5 and Xbox Series X/S, and Take-Two says it set a record. According to the company's announcement, as reported by ABC News and VGTimes, the game made $3.79 billion on its first day and 32.5 million copies were pre-ordered worldwide before launch. Take-Two calls it a record across the global entertainment industry, ahead of every previous video game, box office premiere and music release. A few caveats: ABC describes the $3.79 billion as first-day retail sales and does not say whether it covers pre-orders or digital purchases, and the VGTimes report mixes "sold" and "pre-ordered" wording for the 32.5 million. The figures come from Take-Two's own press release, not from an independent audit. Rockstar founder Sam Houser said in a Friday statement that it is "with immense gratitude" that the studio enters "a new chapter" with the release of GTA 6. Analysts also reported record player share, with more than eight hours of average playtime and little drop in player counts on Steam or Roblox. No PC version is out. Analysts expect a PC port in Q1 2027, but Rockstar has not confirmed a window.
 
-### Edge Magazine Gets 12 New GTA 6 Screenshots and a 16-Page Cover Story From Rockstar North
-- Category: Official · Stars: 5/5 · Published: 2026-11-02T14:41:55.427287+00:00
-- Page: https://vicecityhub.github.io/vicecityhub/n/4408-edge-magazine-gets-12-new-gta-6-screenshots-and-a-16-page-cover-story/ · Source: https://khelnow.com/gaming/edge-magazine-reveals-gta-6-new-screenshots-huge-gameplay-features-202610
+### Neuralink Participant Plays GTA 6 With Thought-Controlled Commands
+- Category: Community · Stars: 3/5 · Published: 2026-11-23T10:18:39.176262+00:00
+- Page: https://vicecityhub.github.io/vicecityhub/n/4431-neuralink-participant-plays-gta-6-with-thought-controlled-commands/ · Source: https://vgtimes.com/gaming-news/175335-neuralink-patient-plays-grand-theft-auto-vi-using-thought-controlled-commands.html
 
-Rockstar gave Edge magazine a batch of 12 new GTA 6 screenshots on October 29, along with a 16-page cover feature built on a visit to Rockstar North in Edinburgh. The images show a much wider Leonida than the trailers did. What the screenshots show, according to coverage of the issue: Vice City's waterfront, skyline and neon-lit streets; a rural Leonida town with low buildings and a motorcycle gang riding through; trailer parks and industrial edges on the outskirts; the Grassrivers swamp, where two armed men ride an airboat with alligators around; an underwater passage with a hammerhead shark over coral; and several shots of Jason and Lucia in new outfits, plus a police officer that fans are already theorizing about. Rockstar's Rob Nelson told Edge the game is "ready," as reported by Game Rant. That supports the November 19 date, though it isn't a quality guarantee. Rockstar also declined to say whether Jason and Lucia can get married. The coverage describes a Leonida nearly as large as the playable areas of GTA 4, GTA 5 and Red Dead Redemption 2 combined. The original Edge issue is a print magazine, so everything here is secondhand reporting until the issue itself circulates.
+A participant in a Neuralink clinical trial played GTA VI using thought-controlled commands, according to a two-minute Neuralink video published November 20. It is a company demo, so details about how the controls were set up are limited.
 
-### What Edge Says Is New in GTA 6: Smarter NPCs, K-9 Cops, Scooter Bros Delivery and a WAINK App
-- Category: Official · Stars: 4/5 · Published: 2026-11-02T14:41:55.427287+00:00
-- Page: https://vicecityhub.github.io/vicecityhub/n/4409-what-edge-says-is-new-in-gta-6-smarter-npcs-k-9-cops-scooter-bros-deli/ · Source: https://khelnow.com/gaming/edge-magazine-reveals-gta-6-new-screenshots-huge-gameplay-features-202610
+### No PC Version Yet, but Scammers Are Already Using a Fake GTA 6 PC Port as Bait
+- Category: Community · Stars: 3/5 · Published: 2026-11-23T10:18:39.176262+00:00
+- Page: https://vicecityhub.github.io/vicecityhub/n/4430-no-pc-version-yet-but-scammers-are-already-using-a-fake-gta-6-pc-port/ · Source: https://vgtimes.com/gaming-news/175259-fake-gta-6-pc-port-is-bait-for-a-200-dark-web-scam-kit.html
 
-According to coverage of Edge's 16-page special, GTA 6's systems go deeper than the trailers suggest. This list comes from Khel Now's summary of the issue, so treat the specifics as secondhand. World: buses and trains are fully functional, days and nights last longer to feel closer to real time, and separate teams built the ads, TV shows, radio stations, political campaigns, pedestrians and fictional brands. NPCs and police: pedestrians react based on location, personality and what they witness, so carrying a shotgun down the street alarms them more than slinging a weapon over your shoulder. Police can deploy K-9 units, track suspects by clothing and known accomplices, and handle pursuits more realistically. Robbery victims may resist, shoppers may step in, and armed drivers can fight back against carjackers. Vehicles and items: a Scooter Bros service delivers your personal vehicle to your location, cars can carry tracking devices and have improved fuel management, and the in-game WAINK app helps locate valuable vehicles that criminal buyers want. Coffee boosts stamina and protein shakes temporarily increase health. The summary also mentions a Criminal Profile system, more enterable interiors and deeper Jason and Lucia relationship mechanics. Rockstar has not published its own breakdown, and the summary contains no direct developer quotes.
+GTA 6 is only out on PS5 and Xbox Series X/S, and no PC version has been announced. Scammers are already exploiting the wait: NordVPN found a $200 dark-web scam kit that uses a fake GTA 6 PC port as bait. SteamDB also warned about a hidden Steam page using the game's name that may be malicious. Analysts expect a PC port in Q1 2027, but Rockstar hasn't confirmed anything. Don't download "PC versions" from forums, torrents or messages, and only trust Rockstar's official channels.
+
+### GTA 6 Hits 99 on Metacritic, Tying Ocarina of Time for the Highest Score Ever
+- Category: Community · Stars: 5/5 · Published: 2026-11-23T10:18:39.176262+00:00
+- Page: https://vicecityhub.github.io/vicecityhub/n/4422-gta-6-hits-99-on-metacritic-tying-ocarina-of-time-for-the-highest-scor/ · Source: https://www.techpowerup.com/354998/gta-6-review-roundup-99-on-metacritic-and-118-perfect-scores
+
+Critics have spoken: GTA 6 sits at 99 on Metacritic for the PS5 version, tying The Legend of Zelda: Ocarina of Time for the highest Metascore in the aggregator's history and beating GTA 4's 98. A TechPowerUp roundup counted 118 of 147 critic reviews as perfect scores on PS5, with no mixed or negative reviews at the time. The Xbox Series X version also shows 99, but it is based on only 14 reviews. Perfect scores came from IGN, GameSpot, Game Informer, Edge, GamesRadar+, VGC, TechRadar, Push Square, Screen Rant and others, with Eurogamer at 5/5. GameStar gave 97, Wccftech 96, the New York Times 90 and IGN Japan 90. The lowest score in the roundup was ScreenHub's 80, whose reviewer said the game drags before it "finally lets loose." The article calls that an outlier. Critic scores are only one side. Audiences have formed their own opinions, and the user score tells a very different story.
+
+### Critics Say 99, Users Say 4.9: GTA 6 Gets Hit by Review Bombing and Real Complaints
+- Category: Community · Stars: 4/5 · Published: 2026-11-23T10:18:39.176262+00:00
+- Page: https://vicecityhub.github.io/vicecityhub/n/4423-critics-say-99-users-say-4-9-gta-6-gets-hit-by-review-bombing-and-real/ · Source: https://vgtimes.com/gaming-news/175295-gta-6-user-score-falls-to-4.9-on-metacritic-as-critics-stay-positive.html
+
+While critics gave GTA 6 a 99 on Metacritic from 152 PS5 reviews, the user score fell to 4.9 within a day of launch, based on nearly 6,800 ratings, according to VGTimes. Not all of it is organic: many low ratings look like review bombing, including zeros and one-line reviews such as "the industry's biggest flop," and one player scored it zero because it isn't on PC yet. Still, some complaints are specific and recurring. "This is not GTA" is the most common one, with players saying it feels closer to Red Dead Redemption 2 than to the sandbox they expected. Others cite a morality system that labels you "irredeemable" if you kill too many pedestrians, a story some find boring, an empty-feeling map and slow missions. On the technical side, players mention 30 frames per second, bugs and a 200 GB-plus install. The $80 price and boxed copies that reportedly contain only a code are also frequent gripes. The article says the backlash hasn't dented sales so far. Both numbers are real; they just measure different things.
+
+### GTA 6: The Album Sets a Spotify Soundtrack Record With 29.85 Million First-Day Streams
+- Category: Official · Stars: 4/5 · Published: 2026-11-23T10:18:39.176262+00:00
+- Page: https://vicecityhub.github.io/vicecityhub/n/4424-gta-6-the-album-sets-a-spotify-soundtrack-record-with-29-85-million-fi/ · Source: https://vgtimes.com/gaming-news/175413-gta-6s-album-sets-spotify-soundtrack-record-with-29.85-million-first-day-streams.html
+
+Grand Theft Auto VI: The Album, released November 20, logged 29.85 million Spotify streams in its first 24 hours, a soundtrack record. The release is 34 tracks and 97 minutes long on Spotify, Apple Music and YouTube Music, with artists including Lana Del Rey, Tame Impala, Don Toliver, Keith Richards, Fred again.. and Travis Scott. Several tracks came out as singles first, the album was made with Atlantic Records, and CD and vinyl editions were announced. Justice's original score is a separate release: 50 tracks of mission music, arriving on streaming December 11.
+
+### Launch-Week Bugs: PS5 Crashes With Error CE-108255-1 and an Xbox 60 FPS Workaround That Speeds Up the Game
+- Category: Community · Stars: 3/5 · Published: 2026-11-23T10:18:39.176262+00:00
+- Page: https://vicecityhub.github.io/vicecityhub/n/4425-launch-week-bugs-ps5-crashes-with-error-ce-108255-1-and-an-xbox-60-fps/ · Source: https://vgtimes.com/gaming-news/175240-gta-6-crashes-on-ps5-despite-reinstalls-with-cooling-trouble-suspected.html
+
+Early technical issues are surfacing. Some PS5 players report GTA 6 crashing with error CE-108255-1, and reinstalling the game hasn't fixed it for them. Cooling trouble is suspected, so check that your console has airflow and is not in a closed cabinet. On Xbox Series X, a workaround reportedly unlocks 60 FPS but also speeds up gameplay along with the frame rate, so it is a glitch, not a feature. The game runs at 30 FPS by default, which is one of the complaints in the user reviews. Rockstar has not published fixes for these specific reports in the material I reviewed. Check the official support page for the latest patch notes.
+
+### Warning: Players Report PSN and Xbox Suspensions After Sharing GTA 6 Screenshots
+- Category: Community · Stars: 3/5 · Published: 2026-11-23T10:18:39.176262+00:00
+- Page: https://vicecityhub.github.io/vicecityhub/n/4426-warning-players-report-psn-and-xbox-suspensions-after-sharing-gta-6-sc/ · Source: https://vgtimes.com/gaming-news/175310-gta-6-players-warned-to-disable-xbox-auto-uploads-after-suspension-reports.html
+
+Two separate reports are making the rounds. One PlayStation player says a 30-day PSN messaging ban followed sending a friend a photo of a nudist resort from the game. Sony hasn't commented. On Xbox, players report suspensions after beach screenshots were uploaded, linked to an auto-upload setting that is enabled by default. If you play on Xbox, consider turning off automatic capture uploads before you share beach and nudity-adjacent scenes. These are individual accounts, not confirmed policy changes.
+
+### First GTA 6 Discoveries: A Pacifist Run That Fails in Two Hours, Derailable Trains and a Batman Parody
+- Category: Community · Stars: 3/5 · Published: 2026-11-23T10:18:39.176262+00:00
+- Page: https://vicecityhub.github.io/vicecityhub/n/4427-first-gta-6-discoveries-a-pacifist-run-that-fails-in-two-hours-deraila/ · Source: https://vgtimes.com/gaming-news/175414-gta-6s-no-kill-challenge-falls-apart-in-less-than-two-hours.html
+
+Players are already digging into the details. A Polygon journalist tried to finish GTA 6 without killing anyone and found accidental collisions and unscripted events kept breaking the rule in under two hours. Unlike GTA 5's unstoppable train, GTA 6's can be derailed. Players also found a comic-book parody of Batman starring a hero named Ratface, a Vice City apartment complex that closely recreates the building from Dexter, and an in-game Call of Duty parody ad that jokes about unionizing. Lawrence Sullivan, known as the Florida Joker, who had demanded $10 million from Rockstar, appears in the credits and says he voices his own lookalike character. More finds will keep coming, so expect this list to grow.
+
+### GTA 6 Launch Week in the Real World: Soldiers Reenlist for Days Off, Schools Fight Absences, Police Issue Warnings
+- Category: Community · Stars: 3/5 · Published: 2026-11-23T10:18:39.176262+00:00
+- Page: https://vicecityhub.github.io/vicecityhub/n/4428-gta-6-launch-week-in-the-real-world-soldiers-reenlist-for-days-off-sch/ · Source: https://vgtimes.com/gaming-news/175316-43-u.s.-soldiers-reenlisted-for-four-days-off-to-play-grand-theft-auto-vi.html
+
+GTA 6's launch spilled into real life. According to VGTimes, 43 US soldiers reenlisted in exchange for a four-day weekend to play the game, and one reportedly received a bonus large enough to buy more than 100 consoles. Schools in Birmingham (Ninestiles Academy is named) and Belfast offered prizes and minibus pickups to fight launch-week absences. Police departments in Atlanta, South Fulton, Floresville and San Juan used the launch to warn people not to copy the game's crimes in real life.
