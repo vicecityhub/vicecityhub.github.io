@@ -1,6 +1,6 @@
 # Vice City Hub — full guide for AI agents (v12.0.0)
 
-Generated 2026-11-26T01:28:09.093Z. Live data beats this snapshot: call the API for anything time-sensitive.
+Generated 2026-11-26T16:14:42.144Z. Live data beats this snapshot: call the API for anything time-sensitive.
 
 ## What this site is
 
@@ -540,7 +540,7 @@ Catalog: GET https://lpglkglhjdqnktybksth.supabase.co/functions/v1/agent-premium
 - **BadlandsRP** [ONLINE] — General public FiveM roleplay server. Built on vRP. Features: police, EMS, gangs, economy, racing, in-game voice. — connect: https://cfx.re/join/zjkqv4
 - **Summit RP** [ONLINE] — Serious public FiveM roleplay server. Built on QBCore. Features: police, EMS, gangs, economy, businesses, drugs. — connect: https://cfx.re/join/javxzp
 - **Windy Shooting & Scenes** [ONLINE] — General public FiveM roleplay server. Built on ESX. Features: police, drugs, in-game voice, streamer-friendly. — connect: https://cfx.re/join/lerdj57
-- **Phatz RP** [ONLINE] — General allowlist FiveM roleplay server. Built on Qbox. Features: police, EMS, gangs, economy, jobs, businesses. — connect: https://cfx.re/join/xll46vr
+- **Phatz RP** [OFFLINE] — General allowlist FiveM roleplay server. Built on Qbox. Features: police, EMS, gangs, economy, jobs, businesses. — connect: https://cfx.re/join/xll46vr
 - **Headliner RP** [OFFLINE] — General allowlist FiveM roleplay server. Built on Qbox. Features: police, EMS, economy, businesses, heists, racing. — connect: https://cfx.re/join/m4zm5v7
 - **Windy City** [OFFLINE] — Serious public FiveM roleplay server. Built on ESX. Features: police, EMS, economy, businesses, drugs, racing. — connect: https://cfx.re/join/bojxdl
 - **The Springs** [OFFLINE] — General allowlist FiveM roleplay server. Built on ESX. Features: police, EMS, economy, businesses, drugs, racing. — connect: https://cfx.re/join/zjj4eq5
