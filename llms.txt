@@ -23,7 +23,7 @@ Important for agents: prefer the Agent API or static JSON feeds below over scrap
 - [Agent Gateway](https://vicecityhub.github.io/vicecityhub/agents.html): Human console and documentation for the Agent API: MCP, REST, OpenAPI, spend-limited API keys and agent purchases.
 - [Community](https://vicecityhub.github.io/vicecityhub/community.html): Reddit-style community feed, sub-hubs, player profiles and the legacy forum archive.
 - [Highlights](https://vicecityhub.github.io/vicecityhub/highlights.html): Screenshots and short clips from GTA, posted by signed-in Hub players, plus auto-drops from the live Restream.
-- [Leonida Database](https://vicecityhub.github.io/vicecityhub/document.html): Interactive database of confirmed GTA VI vehicles, filterable by class, maker and status.
+- [GTA VI Vehicles](https://vicecityhub.github.io/vicecityhub/document.html): Every GTA VI vehicle in one searchable database: filter by class, maker and status, and see the real-life car behind each one.
 - [Vice City Real Estate](https://vicecityhub.github.io/vicecityhub/realestate.html): Leonida virtual real estate showcase and listings.
 
 ## Static JSON feeds (refreshed ~every 6h)
